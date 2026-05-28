@@ -1,19 +1,19 @@
 {
-  "version": 2,
-  "last_updated": "2026-04-28",
+  "version": 3,
+  "last_updated": "2026-05-28",
   "promos": [
     {
       "id": "fm_banner_1",
       "title": "Listen Live FM Radios",
       "subtitle": "Across the world",
-      "image": "https://raw.githubusercontent.com/sahilitsolutions/radio-hub-data/main/images/fm_banner_1.jpg",
+      "image": "https://raw.githubusercontent.com/realsahilbhat/tune-kashmir-data/main/images/fm_banner_1.jpg",
       "categorySlug": "fm"
     },
     {
       "id": "fm_banner_2",
       "title": "Play Radio Mirchi",
       "subtitle": "Tap to listen instantly",
-      "image": "https://raw.githubusercontent.com/sahilitsolutions/radio-hub-data/main/images/fm_banner_2.jpg",
+      "image": "https://raw.githubusercontent.com/realsahilbhat/tune-kashmir-data/main/images/fm_banner_2.jpg",
       "stationId": "radio_mirchi_102_4"
     }
   ]
