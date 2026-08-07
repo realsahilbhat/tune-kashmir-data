@@ -1,6 +1,6 @@
 {
-  "version": 12,
-  "last_updated": "2026-05-03",
+  "version": 13,
+  "last_updated": "2026-08-07",
   "stations": [
     {
       "id": "radio_mirchi_102_4",
@@ -35,6 +35,13 @@
       "name": "Radio Sharda 90.4 FM",
       "stream_url": "http://s8.voscast.com:7738/;/;",
       "logo": "https://onlineradiofm.in/assets/image/radio/180/Radio-Sharda-FM.webp",
+      "category": "FM Radios"
+    },
+    {
+      "id": "93_5_red_fm_delhi",
+      "name": "93.5 Red FM Delhi",
+      "stream_url": "https://stream.zeno.fm/9phrkb1e3v8uv",
+      "logo": "https://onlineradiofm.in/assets/image/radio/180/red-fm15.webp",
       "category": "FM Radios"
     },
     {
