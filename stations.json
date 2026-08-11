@@ -72,6 +72,13 @@
       "logo": "https://onlineradiofm.in/assets/image/radio/180/hot-now-bollywood.webp",
       "category": "Bollywood Radios"
     },
+ {
+      "id": "hungama_evergreen_bollywood",
+      "name": "Hungama Evergreen Bollywood",
+      "stream_url": "https://server.mixify.in:8010/radio.mp3",
+      "logo": "https://onlineradiofm.in/assets/image/radio/180/Evergreen-Bollywood.webp",
+      "category": "Bollywood Radios"
+    },
      {
       "id": "radio_bolly_fm",
       "name": "Radio Bolly FM",
