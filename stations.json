@@ -86,11 +86,18 @@
       "logo": "https://onlineradiofm.in/assets/image/radio/180/radiobollyfm.png",
       "category": "Bollywood Radios"
     },
-      {
+    {
       "id": "radio_badal",
       "name": "Radio Badal",
       "stream_url": "https://listen.openstream.co/6654/;stream.mp3",
       "logo": "https://static.mytuner.mobi/media/radios-150px/564/radio-badal.33e4f271.png",
+      "category": "Bollywood Radios"
+    },
+    {
+      "id": "hindi_desi_bollywood_evergreen_hits",
+      "name": "Hindi Desi Bollywood Evergreen Hits",
+      "stream_url": "http://cast2.asurahosting.com:8569/stream",
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/080/hindi-desi-bollywood-evergreen-hits-channel-2.40d15040.jpg",
       "category": "Bollywood Radios"
     }
   ]
