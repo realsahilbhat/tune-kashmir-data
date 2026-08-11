@@ -85,6 +85,13 @@
       "stream_url": "https://stream.zeno.fm/zu59ykebs2zuv.mp3",
       "logo": "https://onlineradiofm.in/assets/image/radio/180/radiobollyfm.png",
       "category": "Bollywood Radios"
+    },
+      {
+      "id": "radio_badal",
+      "name": "Radio Badal",
+      "stream_url": "https://listen.openstream.co/6654/;stream.mp3",
+      "logo": "https://static.mytuner.mobi/media/radios-150px/564/radio-badal.33e4f271.png",
+      "category": "Bollywood Radios"
     }
   ]
 }
