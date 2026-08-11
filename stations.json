@@ -99,6 +99,13 @@
       "stream_url": "http://cast2.asurahosting.com:8569/stream",
       "logo": "https://static.mytuner.mobi/media/tvos_radios/080/hindi-desi-bollywood-evergreen-hits-channel-2.40d15040.jpg",
       "category": "Bollywood Radios"
+    },
+    {
+      "id": "radio_olive",
+      "name": "Radio Olive",
+      "stream_url": "https://28563.live.streamtheworld.com/OLIVE1063.mp3",
+      "logo": "https://liveradios.in/wp-content/uploads/OLIVE-logo.png",
+      "category": "Bollywood Radios"
     }
   ]
 }
