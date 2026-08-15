@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "last_updated": "2026-08-15",
   "stations": [
     {
@@ -210,6 +210,13 @@
       "name": "Yo Yo Honey Singh",
       "stream_url": "https://drive.uber.radio/uber/bollywoodyoyohoneysingh/icecast.audio",
       "logo": "https://indiaradio.in/images/stations/1777229606.webp",
+      "category": "Artists"
+    },
+     {
+      "id": "shreya_ghoshal",
+      "name": "Shreya Ghoshal",
+      "stream_url": "https://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio",
+      "logo": "https://indiaradio.in/images/stations/1777229476.webp",
       "category": "Artists"
     },
   ]
