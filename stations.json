@@ -115,6 +115,13 @@
       "category": "News"
     },
     {
+      "id": "air_srinagar",
+      "name": "AIR Srinagar",
+      "stream_url": "https://d1tmej9eu7kw5c.cloudfront.net/01e2be674a0543a6/01e2be674a0543a6.m3u8",
+      "logo": "https://liveradios.in/wp-content/uploads/radio-kashmir.jpg",
+      "category": "News"
+    },
+    {
       "id": "bbc_hindi_radio",
       "name": "BBC Hindi Radio",
       "stream_url": "https://server.mixify.in:8010/radio.mp3",
