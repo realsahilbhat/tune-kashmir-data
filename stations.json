@@ -93,6 +93,13 @@
       "logo": "https://indiaradio.in/images/stations/1777217834.webp",
       "category": "Bollywood Radios"
     },
+    {
+      "id": "bollywood_dance",
+      "name": "Bollywood Dance",
+      "stream_url": "https://drive.uber.radio/uber/bollywooddance/icecast.audio",
+      "logo": "https://indiaradio.in/images/stations/1777216622.webp",
+      "category": "Bollywood Radios"
+    },
      {
       "id": "radio_bolly_fm",
       "name": "Radio Bolly FM",
