@@ -89,7 +89,7 @@
     {
       "id": "bollywood_love",
       "name": "Bollywood Love",
-      "stream_url": https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+      "stream_url": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
       "logo": "https://indiaradio.in/images/stations/1777217834.webp",
       "category": "Bollywood Radios"
     },
