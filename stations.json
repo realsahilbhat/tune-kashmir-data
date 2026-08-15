@@ -198,5 +198,12 @@
       "logo": "https://indiaradio.in/images/stations/1777229795.webp",
       "category": "Artists"
     },
+    {
+      "id": "vishal_&_shekhar",
+      "name": "Vishal & Shekhar",
+      "stream_url": "https://drive.uber.radio/uber/bollywoodvishalandshekhar/icecast.audio",
+      "logo": "https://indiaradio.in/images/stations/1777229707.webp",
+      "category": "Artists"
+    },
   ]
 }
