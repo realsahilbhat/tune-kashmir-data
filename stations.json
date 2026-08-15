@@ -80,10 +80,17 @@
       "category": "Bollywood Radios"
     },
      {
-      "id": bollywood_work_out",
+      "id": "bollywood_work_out",
       "name": "Bollywood Work Out",
       "stream_url": "https://drive.uber.radio/uber/bollywoodworkout/icecast.audio",
       "logo": "https://indiaradio.in/images/stations/1777218037.webp",
+      "category": "Bollywood Radios"
+    },
+    {
+      "id": "bollywood_love",
+      "name": "Bollywood Love",
+      "stream_url": https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+      "logo": "https://indiaradio.in/images/stations/1777217834.webp",
       "category": "Bollywood Radios"
     },
      {
