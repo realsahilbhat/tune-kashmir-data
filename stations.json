@@ -100,6 +100,13 @@
       "logo": "https://indiaradio.in/images/stations/1777216622.webp",
       "category": "Bollywood Radios"
     },
+    {
+      "id": "hindi_desi_bollywood_evergreen_hits",
+      "name": "Hindi Desi Bollywood Evergreen Hits",
+      "stream_url": "http://cast2.asurahosting.com:8569/stream",
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/080/hindi-desi-bollywood-evergreen-hits-channel-2.40d15040.jpg",
+      "category": "Bollywood Radios"
+    },
      {
       "id": "radio_bolly_fm",
       "name": "Radio Bolly FM",
@@ -115,10 +122,10 @@
       "category": "Bollywood Radios"
     },
     {
-      "id": "hindi_desi_bollywood_evergreen_hits",
-      "name": "Hindi Desi Bollywood Evergreen Hits",
-      "stream_url": "http://cast2.asurahosting.com:8569/stream",
-      "logo": "https://static.mytuner.mobi/media/tvos_radios/080/hindi-desi-bollywood-evergreen-hits-channel-2.40d15040.jpg",
+      "id": "desi_hits_2000s",
+      "name": "Desi Hits 2000s",
+      "stream_url": "https://www.desizoneradio.com/relay2",
+      "logo": "https://indiaradio.in/images/stations/1777182816.webp",
       "category": "Bollywood Radios"
     },
     {
