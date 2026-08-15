@@ -191,5 +191,12 @@
       "logo": "https://indiaradio.in/images/stations/1777230130.webp",
       "category": "Artists"
     },
+     {
+      "id": "udit_narayan",
+      "name": "Udit Narayan",
+      "stream_url": "https://drive.uber.radio/uber/bollywooduditnarayan/icecast.audio",
+      "logo": "https://indiaradio.in/images/stations/1777229795.webp",
+      "category": "Artists"
+    },
   ]
 }
