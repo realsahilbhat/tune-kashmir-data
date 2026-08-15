@@ -106,6 +106,13 @@
       "stream_url": "https://28563.live.streamtheworld.com/OLIVE1063.mp3",
       "logo": "https://liveradios.in/wp-content/uploads/OLIVE-logo.png",
       "category": "Bollywood Radios"
+    },
+    {
+      "id": "air_live_news_24x7",
+      "name": "AIR Live News 24x7",
+      "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8",
+      "logo": "https://static.mytuner.mobi/media/radios-150px/c8rkdnnkrs7e.jpg",
+      "category": "News"
     }
   ]
 }
