@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "last_updated": "2026-08-15",
   "stations": [
     {
@@ -217,6 +217,13 @@
       "name": "Shreya Ghoshal",
       "stream_url": "https://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio",
       "logo": "https://indiaradio.in/images/stations/1777229476.webp",
+      "category": "Artists"
+    },
+    {
+      "id": "shah_rukh_khan",
+      "name": "Shah Rukh Khan",
+      "stream_url": "https://drive.uber.radio/uber/bollywoodshahrukhkhan/icecast.audio",
+      "logo": "https://indiaradio.in/images/stations/1777229361.webp",
       "category": "Artists"
     }
   ]
