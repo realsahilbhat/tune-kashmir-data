@@ -183,6 +183,13 @@
       "stream_url": "https://stream-286.surfernetwork.com/vrqrkmrfkzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cnFya21yZmt6enV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJDWTZQaUI3TFFzSzJIc1FXWnJtLXB3IiwiaWF0IjoxNzg2ODEwMDI1LCJleHAiOjE3ODY4MTAwODV9.qbHVOq5fMRy4BkJ_IGWgmx90C2CbmuHUcJH_bEu-Zng",
       "logo": "https://indiaradio.in/images/stations/1782397651_karan-aujla-radio.webp",
       "category": "Artists"
-    }
+    },
+    {
+      "id": "sonu_nigam",
+      "name": "Sonu Nigam",
+      "stream_url": "https://drive.uber.radio/uber/bollywoodsonunigam/icecast.audio",
+      "logo": "https://indiaradio.in/images/stations/1777230130.webp",
+      "category": "Artists"
+    },
   ]
 }
