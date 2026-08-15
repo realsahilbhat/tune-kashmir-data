@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "last_updated": "2026-08-15",
   "stations": [
     {
@@ -230,7 +230,14 @@
       "id": "lata_mangeshkar",
       "name": "Lata Mangeshkar",
       "stream_url": "https://drive.uber.radio/uber/bollywoodlatamangeshkar/icecast.audio",
-      "logo": "https://indiaradio.in/images/stations/1777229707.webp",
+      "logo": "https://indiaradio.in/images/stations/1777229038.webp",
+      "category": "Artists"
+    },
+    {
+      "id": "b_praak",
+      "name": "B Praak",
+      "stream_url": "https://stream-204.surfernetwork.com/x9e8vg93yf8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4OWU4dmc5M3lmOHV2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJQRXdUT0hqd1JuMktmZ3ZtWUQtSTBnIiwiaWF0IjoxNzg2ODE3NjY4LCJleHAiOjE3ODY4MTc3Mjh9.N6bmjHx-z5odrq5dBKYi0nhmT6YeefEJdZAzUMT8WrE",
+      "logo": "https://indiaradio.in/images/stations/1777227682.webp",
       "category": "Artists"
     }
   ]
