@@ -120,6 +120,13 @@
       "stream_url": "https://server.mixify.in:8010/radio.mp3",
       "logo": "https://cdn.radoxo.com/images/india/bbc-hindi-radio.webp?v=1786788002",
       "category": "News"
+    },
+    {
+      "id": "vividh_bharati_delhi",
+      "name": "Vividh Bharati Delhi",
+      "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio238/hlspbaudio23832kbps.m3u8",
+      "logo": "https://liveradios.in/wp-content/uploads/vbs-delhi.jpeg",
+      "category": "News"
     }
   ]
 }
