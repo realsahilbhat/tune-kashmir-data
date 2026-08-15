@@ -134,6 +134,13 @@
       "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio238/hlspbaudio23832kbps.m3u8",
       "logo": "https://liveradios.in/wp-content/uploads/vbs-delhi.jpeg",
       "category": "News"
+    },
+    {
+      "id": "ndtv_24X7_radio",
+      "name": "NDTV 24X7 Radio",
+      "stream_url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+      "logo": "https://cdn.radoxo.com/images/india/ndtv-24x7-radio.webp?v=1786795201",
+      "category": "News"
     }
   ]
 }
