@@ -169,6 +169,13 @@
       "stream_url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
       "logo": "https://cdn.radoxo.com/images/india/ndtv-24x7-radio.webp?v=1786795201",
       "category": "News"
+    },
+     {
+      "id": "aajtak_news_radio",
+      "name": "Aajtak News Radio",
+      "stream_url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_180p/chunks.m3u8",
+      "logo": "https://indiaradio.in/images/stations/1779169472.webp",
+      "category": "News"
     }
   ]
 }
