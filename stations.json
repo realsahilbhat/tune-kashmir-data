@@ -72,11 +72,18 @@
       "logo": "https://onlineradiofm.in/assets/image/radio/180/hot-now-bollywood.webp",
       "category": "Bollywood Radios"
     },
- {
+    {
       "id": "hungama_evergreen_bollywood",
       "name": "Hungama Evergreen Bollywood",
       "stream_url": "https://server.mixify.in:8010/radio.mp3",
       "logo": "https://onlineradiofm.in/assets/image/radio/180/Evergreen-Bollywood.webp",
+      "category": "Bollywood Radios"
+    },
+     {
+      "id": bollywood_work_out",
+      "name": "Bollywood Work Out",
+      "stream_url": "https://drive.uber.radio/uber/bollywoodworkout/icecast.audio",
+      "logo": "https://indiaradio.in/images/stations/1777218037.webp",
       "category": "Bollywood Radios"
     },
      {
