@@ -281,6 +281,13 @@
       "stream_url": "https://drive.uber.radio/uber/bollywoodashabhosle/icecast.audio",
       "logo": "https://indiaradio.in/images/stations/1777227481.webp",
       "category": "Artists"
+    },
+    {
+      "id": "kishore_kumar_radio",
+      "name": "Kishore Kumar Radio",
+      "stream_url": "https://stream-288.surfernetwork.com/0ghtfp8ztm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwZ2h0ZnA4enRtMHV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJmbFJjR0QzZlJBdUFGOHRTU0tzbEpnIiwiaWF0IjoxNzg2ODY4MDA2LCJleHAiOjE3ODY4NjgwNjZ9.mLLqkCF1Sfb0C71gqcZhsBjv7Qn1Plm56BgmlmYi76k",
+      "logo": "https://indiaradio.in/images/stations/1777183148.webp",
+      "category": "Artists"
     }
   ]
 }
