@@ -267,6 +267,20 @@
       "stream_url": "https://drive.uber.radio/uber/bollywoodarrahman/icecast.audio",
       "logo": "https://liveradios.in/wp-content/uploads/AR-Rahman.jpg",
       "category": "Artists"
+    },
+    {
+      "id": "neha_kakkar",
+      "name": "Neha Kakkar",
+      "stream_url": "https://drive.uber.radio/uber/bollywoodneharkakkar/icecast.audio",
+      "logo": "https://indiaradio.in/images/stations/1777218413.webp",
+      "category": "Artists"
+    },
+     {
+      "id": "asha_bhosle",
+      "name": "Asha Bhosle",
+      "stream_url": "https://drive.uber.radio/uber/bollywoodashabhosle/icecast.audio",
+      "logo": "https://indiaradio.in/images/stations/1777227481.webp",
+      "category": "Artists"
     }
   ]
 }
