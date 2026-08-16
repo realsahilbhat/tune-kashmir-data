@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "last_updated": "2026-08-15",
   "stations": [
     {
@@ -245,6 +245,27 @@
       "name": "Arijit Singh",
       "stream_url": "https://drive.uber.radio/uber/bollywoodaruitsingh/icecast.audio",
       "logo": "https://indiaradio.in/images/stations/1777227031.webp",
+      "category": "Artists"
+    },
+    {
+      "id": "atif_aslam",
+      "name": "Atif Aslam",
+      "stream_url": "https://drive.uber.radio/uber/bollywoodatifaslam/icecast.audio",
+      "logo": "https://tuneyou.com/_next/image?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FAtif_Aslam_in_black_coat.jpg&w=640&q=75",
+      "category": "Artists"
+    },
+    {
+      "id": "sidhu_moose_wala",
+      "name": "Sidhu Moose Wala",
+      "stream_url": "https://stream-176.surfernetwork.com/vwsyns0rkptuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2d3N5bnMwcmtwdHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJQUmtnNjlYWlFybTFmY25XQ2dwUVRRIiwiaWF0IjoxNzg2ODYzNjYwLCJleHAiOjE3ODY4NjM3MjB9.Apf1Cc0upbxz_S2Ohy87uLByAOvbn6tu5Ab_xO0ODxA",
+      "logo": "https://indiaradio.in/images/stations/1777218944.webp",
+      "category": "Artists"
+    },
+    {
+      "id": "a_r_ahman",
+      "name": "A.R. Rahman",
+      "stream_url": "https://drive.uber.radio/uber/bollywoodarrahman/icecast.audio",
+      "logo": "https://liveradios.in/wp-content/uploads/AR-Rahman.jpg",
       "category": "Artists"
     }
   ]
