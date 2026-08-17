@@ -52,6 +52,13 @@
       "category": "Bollywood Radios"
     },
     {
+      "id": "dance_masti_bollywood",
+      "name": "Dance Masti Bollywood",
+      "stream_url": "https://bhs.edge.mystreaming.net/uber-app/bollywooddance/icecast.audio",
+      "logo": "https://liveradios.in/wp-content/uploads/dancemastibollywood.jpg",
+      "category": "Bollywood Radios"
+    },
+    {
       "id": "hungama_hot_now_bollywood",
       "name": "Hungama Hot Now Bollywood",
       "stream_url": "https://2.mystreaming.net/uber/bollywoodnow/icecast.audio",
