@@ -295,6 +295,13 @@
       "stream_url": "https://a9.asurahosting.com:7520/radio.mp3",
       "logo": "https://onlineradiofm.in/assets/image/radio/180/Screenshot_7.png",
       "category": "Classic Radios"
+    },
+    {
+      "id": "bollywood_gold",
+      "name": "Bollywood Gold",
+      "stream_url": "http://142.4.219.8:8255/stream",
+      "logo": "https://manager.uber.radio/static/uploads/station/229a34b8-6f4a-427b-b974-b8a4463ab4e7.png",
+      "category": "Classic Radios"
     }
   ]
 }
