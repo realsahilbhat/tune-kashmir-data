@@ -17,6 +17,13 @@
       "category": "FM Radios"
     },
     {
+      "id": "mirchi_fm_fiji",
+      "name": "Mirchi FM Fiji",
+      "stream_url": "https://icecast1.sere.plus/MirchiFiji",
+      "logo": "https://liveradios.in/wp-content/uploads/mirchifm.jpg",
+      "category": "FM Radios"
+    },
+    {
       "id": "radio_faza",
       "name": "Radio Faza",
       "stream_url": "http://209.97.134.54:8000/radiofaza",
