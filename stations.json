@@ -309,6 +309,34 @@
       "stream_url": "https://vm65162.streamerr.co/listen/radioyaadein/radio.mp3",
       "logo": "https://indiaradio.in/images/stations/radio-yaadein-tzwamx.webp",
       "category": "Classic Radios"
+    },
+    {
+      "id": "taal_radio",
+      "name": "Taal Radio",
+      "stream_url": "https://stream.tamilfmradios.com/?url=http://radio.punjabrocks.com:9998/;",
+      "logo": "https://radiosindia.com/images/taalradio.jpg",
+      "category": "Classic Radios"
+    },
+     {
+      "id": "bollywood_gaane_purane",
+      "name": "Bollywood Gaane Purane",
+      "stream_url": "https://stream-285.surfernetwork.com/6n6ewddtad0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2bjZld2RkdGFkMHV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJhSUpCYm5XQ1NQV1BnTXdua21qLUxBIiwiaWF0IjoxNzg2OTQ5NDUwLCJleHAiOjE3ODY5NDk1MTB9.ejvm9idXn1hsQzDXeaotTZmqWYZGp578thonjJGZcWg",
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/ppqbgfej6skx.jpeg",
+      "category": "Classic Radios"
+    },
+    {
+      "id": "rangeela_radio",
+      "name": "Rangeela Radio",
+      "stream_url": "https://rangeelaradio.radioca.st/;",
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/027/rangeela-radio.a9d1fccb.png",
+      "category": "Classic Radios"
+    },
+    {
+      "id": "retro_bollywood",
+      "name": "Retro Bollywood",
+      "stream_url": "https://stream-286.surfernetwork.com/g372rxef798uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMzcycnhlZjc5OHV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJNZEJXQ3EzdlI5eXRoM3Jzc3lYa2dRIiwiaWF0IjoxNzg2OTUwMjI2LCJleHAiOjE3ODY5NTAyODZ9.rFxQwBnaijlO3fY8T0aHburzjHji9E8xbNvQ-b2l1Fo",
+      "logo": "https://onlineradiofm.in/assets/image/radio/180/Retro-Bollywood.webp",
+      "category": "Classic Radios"
     }
   ]
 }
