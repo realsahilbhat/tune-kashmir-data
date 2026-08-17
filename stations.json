@@ -59,13 +59,6 @@
       "category": "Bollywood Radios"
     },
     {
-      "id": "hits_of_bollywwood",
-      "name": "Hits Of Bollywood",
-      "stream_url": "https://stream.zeno.fm/a2gyqzwpwfeuv",
-      "logo": "https://onlineradiofm.in/assets/image/radio/180/hitsofbollywood.webp",
-      "category": "Bollywood Radios"
-    },
-    {
       "id": "hungama_hot_now_bollywood",
       "name": "Hungama Hot Now Bollywood",
       "stream_url": "https://2.mystreaming.net/uber/bollywoodnow/icecast.audio",
@@ -302,6 +295,13 @@
       "stream_url": "http://142.4.219.8:8255/stream",
       "logo": "https://manager.uber.radio/static/uploads/station/229a34b8-6f4a-427b-b974-b8a4463ab4e7.png",
       "category": "Classic Radios"
+    },
+    {
+      "id": "hits_of_bollywwood",
+      "name": "Hits Of Bollywood",
+      "stream_url": "https://stream.zeno.fm/a2gyqzwpwfeuv",
+      "logo": "https://onlineradiofm.in/assets/image/radio/180/hitsofbollywood.webp",
+      "category": "Bollywood Radios"
     },
     {
       "id": "radio_yaadein",
