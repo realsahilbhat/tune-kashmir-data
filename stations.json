@@ -136,6 +136,20 @@
       "category": "Bollywood Radios"
     },
     {
+      "id": "bollywood_super_hit_radio",
+      "name": "Bollywood Super Hit Radio",
+      "stream_url": "https://bhs.edge.mystreaming.net/uber/bollywoodnow/icecast.audio",
+      "logo": "https://liveradios.in/wp-content/uploads/bollywood-super-hit-radio.jpg",
+      "category": "Bollywood Radios"
+    },
+    {
+      "id": "bollyVibes_radio",
+      "name": "BollyVibes Radio",
+      "stream_url": "https://bollyvibes.radioca.st/stream",
+      "logo": "https://liveradios.in/wp-content/uploads/bllyvibes1.jpg",
+      "category": "Bollywood Radios"
+    },
+    {
       "id": "mixiFy_24/7_non_stop_new_hits",
       "name": "MixiFy – 24/7 Non-Stop New Hits",
       "stream_url": "https://server.mixify.in:8020/radio.mp3",
