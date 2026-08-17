@@ -115,6 +115,34 @@
       "category": "Bollywood Radios"
     },
     {
+      "id": "radio_dil",
+      "name": "Radio Dil",
+      "stream_url": "https://us3.streamingpulse.com/ssl/radiodil2",
+      "logo": "https://liveradios.in/wp-content/uploads/radiodil.jpg",
+      "category": "Bollywood Radios"
+    },
+    {
+      "id": "fnf.fm_bollywood",
+      "name": "FnF.FM Bollywood",
+      "stream_url": "https://usa1.fastcast4u.com/proxy/qrekthei?mp=/1",
+      "logo": "https://liveradios.in/wp-content/uploads/fnfbollywood.jpg",
+      "category": "Bollywood Radios"
+    },
+    {
+      "id": "mixiFy_24/7_non_stop_new_hits",
+      "name": "MixiFy – 24/7 Non-Stop New Hits",
+      "stream_url": "https://server.mixify.in:8020/radio.mp3",
+      "logo": "https://liveradios.in/wp-content/uploads/mixify.jpg",
+      "category": "Bollywood Radios"
+    },
+    {
+      "id": "megazone_bollywood",
+      "name": "Megazone Bollywood",
+      "stream_url": "https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3",
+      "logo": "https://liveradios.in/wp-content/uploads/megazone-bpllywood.jpg",
+      "category": "Bollywood Radios"
+    },
+    {
       "id": "air_live_news_24x7",
       "name": "AIR Live News 24x7",
       "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8",
