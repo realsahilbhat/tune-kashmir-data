@@ -129,6 +129,13 @@
       "category": "Bollywood Radios"
     },
     {
+      "id": "exclusive_radio_bollywood",
+      "name": "Exclusive Radio Bollywood",
+      "stream_url": "https://streaming.exclusive.radio/er/bollywood/icecast.audio",
+      "logo": "https://liveradios.in/wp-content/uploads/exclusiveradio.jpg",
+      "category": "Bollywood Radios"
+    },
+    {
       "id": "mixiFy_24/7_non_stop_new_hits",
       "name": "MixiFy – 24/7 Non-Stop New Hits",
       "stream_url": "https://server.mixify.in:8020/radio.mp3",
@@ -140,6 +147,13 @@
       "name": "Megazone Bollywood",
       "stream_url": "https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3",
       "logo": "https://liveradios.in/wp-content/uploads/megazone-bpllywood.jpg",
+      "category": "Bollywood Radios"
+    },
+    {
+      "id": "radio_retro_bollywood",
+      "name": "Radio Retro Bollywood",
+      "stream_url": "https://stream-286.surfernetwork.com/g372rxef798uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMzcycnhlZjc5OHV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJNZEJXQ3EzdlI5eXRoM3Jzc3lYa2dRIiwiaWF0IjoxNzg2OTUwMjI2LCJleHAiOjE3ODY5NTAyODZ9.rFxQwBnaijlO3fY8T0aHburzjHji9E8xbNvQ-b2l1Fo",
+      "logo": "https://onlineradiofm.in/assets/image/radio/180/Retro-Bollywood.webp",
       "category": "Bollywood Radios"
     },
     {
