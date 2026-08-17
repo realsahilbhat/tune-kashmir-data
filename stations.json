@@ -329,14 +329,14 @@
       "name": "Desi Hits 2000s",
       "stream_url": "https://www.desizoneradio.com/relay2",
       "logo": "https://indiaradio.in/images/stations/1777182816.webp",
-      "category": "Bollywood Radios"
+      "category": "Classic Radios"
     },
     {
       "id": "non_stop_hindi",
       "name": "Non Stop Hindi",
       "stream_url": "http://s5.voscast.com:8216/stream",
       "logo": "https://onlineradiofm.in/assets/image/radio/180/nonstophindi.webp",
-      "category": "Bollywood Radios"
+      "category": "Classic Radios"
     },
   ]
 }
