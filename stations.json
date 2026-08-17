@@ -302,6 +302,13 @@
       "stream_url": "http://142.4.219.8:8255/stream",
       "logo": "https://manager.uber.radio/static/uploads/station/229a34b8-6f4a-427b-b974-b8a4463ab4e7.png",
       "category": "Classic Radios"
+    },
+    {
+      "id": "radio_yaadein",
+      "name": "Radio Yaadein",
+      "stream_url": "https://vm65162.streamerr.co/listen/radioyaadein/radio.mp3",
+      "logo": "https://indiaradio.in/images/stations/radio-yaadein-tzwamx.webp",
+      "category": "Classic Radios"
     }
   ]
 }
