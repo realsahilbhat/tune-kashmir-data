@@ -9,7 +9,7 @@
       "description": "Holy Quran translation in urdu language",
       "language": "Urdu",
       "category": "Religion & Spirituality",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b2/18/65/b218659a-97fb-5520-ac6f-f08736a473e1/mza_7892455876818863159.jpg/300x300bb.jpg",
+      "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/36839938/36839938-1678545750140-f3071c968acc5.jpg",
       "totalEpisodes": 114,
       "episodes": [
         {
@@ -1151,6 +1151,2657 @@
           "audioUrl": "https://anchor.fm/s/dc2ddf48/podcast/play/66503490/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-13%2F440d5d35-755e-c364-dc0e-298fe6f5a13b.mp3",
           "publishedAt": "2023-03-13",
           "duration": 79
+        }
+      ]
+    },
+    {
+      "id": "holy-quran-daily-podcast",
+      "title": "Holy Quran Daily Podcast",
+      "publisher": "Quran-Cast.net (Al-Shuraim & Al-Sudais)",
+      "description": "Quran Daily Podcast. You can subscribe and listen daily to the Holy Quran. The holy Quran is recited by Al-Haram Al-Shareef reciters. (Al-Shuraim and Al-Sudais)",
+      "language": "Arabic",
+      "category": "Religion & Spirituality",
+      "artwork": "https://www.quran-cast.net/images/art_large.jpg",
+      "totalEpisodes": 293,
+      "featured": true,
+      "rating": 4.9,
+      "episodes": [
+        {
+          "id": "holy-quran-daily-1",
+          "episodeNumber": 1,
+          "title": "Al-Fatiha",
+          "description": "Al-Fatiha: First Soura in the Holy Quran.",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/Al-Fatiha.mp3",
+          "publishedAt": "2005-11-26",
+          "duration": 40
+        },
+        {
+          "id": "holy-quran-daily-2",
+          "episodeNumber": 2,
+          "title": "Al-Baqara (1/20)",
+          "description": "Sourat Al-Baqara (Verses 1 to 25)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/01.mp3",
+          "publishedAt": "2005-11-27",
+          "duration": 312
+        },
+        {
+          "id": "holy-quran-daily-3",
+          "episodeNumber": 3,
+          "title": "Al-Baqara (2/20)",
+          "description": "Sourat Al-Baqara (Verses 26-43)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/02.mp3",
+          "publishedAt": "2005-11-28",
+          "duration": 266
+        },
+        {
+          "id": "holy-quran-daily-4",
+          "episodeNumber": 4,
+          "title": "Al-Baqara (3/20)",
+          "description": "Sourat Al-Baqara (Verses 44-59)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/03.mp3",
+          "publishedAt": "2005-11-29",
+          "duration": 207
+        },
+        {
+          "id": "holy-quran-daily-5",
+          "episodeNumber": 5,
+          "title": "Al-Baqara (4/20)",
+          "description": "Sourat Al-Baqara (Verses 60-74)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/04.mp3",
+          "publishedAt": "2005-11-30",
+          "duration": 262
+        },
+        {
+          "id": "holy-quran-daily-6",
+          "episodeNumber": 6,
+          "title": "Al-Baqara (5/20)",
+          "description": "Sourat Al-Baqara (Verses 75-91)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/05.mp3",
+          "publishedAt": "2005-12-01",
+          "duration": 380
+        },
+        {
+          "id": "holy-quran-daily-7",
+          "episodeNumber": 7,
+          "title": "Al-Baqara (6/20)",
+          "description": "Sourat Al-Baqara (Verses 92-106)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/06.mp3",
+          "publishedAt": "2005-12-02",
+          "duration": 290
+        },
+        {
+          "id": "holy-quran-daily-8",
+          "episodeNumber": 8,
+          "title": "Al-Baqara (7/20)",
+          "description": "Sourat Al-Baqara (Verses 107-123)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/07.mp3",
+          "publishedAt": "2005-12-03",
+          "duration": 290
+        },
+        {
+          "id": "holy-quran-daily-9",
+          "episodeNumber": 9,
+          "title": "Al-Baqara (8/20)",
+          "description": "Sourat Al-Baqara (Verses 124-141)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/08.mp3",
+          "publishedAt": "2005-12-04",
+          "duration": 330
+        },
+        {
+          "id": "holy-quran-daily-10",
+          "episodeNumber": 10,
+          "title": "Al-Baqara (9/20)",
+          "description": "Sourat Al-Baqara (Verses 142-157)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/09.mp3",
+          "publishedAt": "2005-12-05",
+          "duration": 264
+        },
+        {
+          "id": "holy-quran-daily-11",
+          "episodeNumber": 11,
+          "title": "Al-Baqara (10/20)",
+          "description": "Sourat Al-Baqara (Verses 158-176)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/10.mp3",
+          "publishedAt": "2005-12-06",
+          "duration": 293
+        },
+        {
+          "id": "holy-quran-daily-12",
+          "episodeNumber": 12,
+          "title": "Al-Baqara (11/20)",
+          "description": "Sourat Al-Baqara (Verses 177-188)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/11.mp3",
+          "publishedAt": "2005-12-07",
+          "duration": 277
+        },
+        {
+          "id": "holy-quran-daily-13",
+          "episodeNumber": 13,
+          "title": "Al-Baqara (12/20)",
+          "description": "Sourat Al-Baqara (Verses 189-202)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/12.mp3",
+          "publishedAt": "2005-12-08",
+          "duration": 238
+        },
+        {
+          "id": "holy-quran-daily-14",
+          "episodeNumber": 14,
+          "title": "Al-Baqara (13/20)",
+          "description": "Sourat Al-Baqara (Verses 203-218)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/13.mp3",
+          "publishedAt": "2005-12-09",
+          "duration": 346
+        },
+        {
+          "id": "holy-quran-daily-15",
+          "episodeNumber": 15,
+          "title": "Al-Baqara (14/20)",
+          "description": "Sourat Al-Baqara (Verses 219-232)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/14.mp3",
+          "publishedAt": "2005-12-10",
+          "duration": 362
+        },
+        {
+          "id": "holy-quran-daily-16",
+          "episodeNumber": 16,
+          "title": "Al-Baqara (15/20)",
+          "description": "Sourat Al-Baqara (Verses 233-242)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/15.mp3",
+          "publishedAt": "2005-12-11",
+          "duration": 251
+        },
+        {
+          "id": "holy-quran-daily-17",
+          "episodeNumber": 17,
+          "title": "Al-Baqara (16/20)",
+          "description": "Sourat Al-Baqara (Verses 243-252)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/16.mp3",
+          "publishedAt": "2005-12-12",
+          "duration": 274
+        },
+        {
+          "id": "holy-quran-daily-18",
+          "episodeNumber": 18,
+          "title": "Al-Baqara (17/20)",
+          "description": "Sourat Al-Baqara (Verses 253-262)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/17.mp3",
+          "publishedAt": "2005-12-13",
+          "duration": 302
+        },
+        {
+          "id": "holy-quran-daily-19",
+          "episodeNumber": 19,
+          "title": "Al-Baqara (18/20)",
+          "description": "Sourat Al-Baqara (Verses 263-271)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/18.mp3",
+          "publishedAt": "2005-12-14",
+          "duration": 190
+        },
+        {
+          "id": "holy-quran-daily-20",
+          "episodeNumber": 20,
+          "title": "Al-Baqara (19/20)",
+          "description": "Sourat Al-Baqara (Verses 272-282)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/19.mp3",
+          "publishedAt": "2005-12-15",
+          "duration": 281
+        },
+        {
+          "id": "holy-quran-daily-21",
+          "episodeNumber": 21,
+          "title": "Al-Baqara (20/20)",
+          "description": "Sourat Al-Baqara (Verses 283-286)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/002/20.mp3",
+          "publishedAt": "2005-12-16",
+          "duration": 110
+        },
+        {
+          "id": "holy-quran-daily-22",
+          "episodeNumber": 22,
+          "title": "Al-Emran (1/11)",
+          "description": "Sourat Al-Emran (Verses 1-14)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/003/01.mp3",
+          "publishedAt": "2005-12-17",
+          "duration": 200
+        },
+        {
+          "id": "holy-quran-daily-23",
+          "episodeNumber": 23,
+          "title": "Al-Emran (2/11)",
+          "description": "Sourat Al-Emran (Verses 15-32)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/003/02.mp3",
+          "publishedAt": "2005-12-18",
+          "duration": 335
+        },
+        {
+          "id": "holy-quran-daily-24",
+          "episodeNumber": 24,
+          "title": "Al-Emran (3/11)",
+          "description": "Sourat Al-Emran (Verses 33-51)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/003/03.mp3",
+          "publishedAt": "2005-12-19",
+          "duration": 316
+        },
+        {
+          "id": "holy-quran-daily-25",
+          "episodeNumber": 25,
+          "title": "Al-Emran (4/11)",
+          "description": "Sourat Al-Emran (Verses 52-74)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/003/04.mp3",
+          "publishedAt": "2005-12-20",
+          "duration": 346
+        },
+        {
+          "id": "holy-quran-daily-26",
+          "episodeNumber": 26,
+          "title": "Al-Emran (5/11)",
+          "description": "Sourat Al-Emran (Verses 75-92)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/003/05.mp3",
+          "publishedAt": "2005-12-21",
+          "duration": 353
+        },
+        {
+          "id": "holy-quran-daily-27",
+          "episodeNumber": 27,
+          "title": "Al-Emran (6/11)",
+          "description": "Sourat Al-Emran (Verses 93-112)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/003/06.mp3",
+          "publishedAt": "2005-12-22",
+          "duration": 300
+        },
+        {
+          "id": "holy-quran-daily-28",
+          "episodeNumber": 28,
+          "title": "Al-Emran (7/11)",
+          "description": "Sourat Al-Emran (Verses 113-132)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/003/07.mp3",
+          "publishedAt": "2005-12-23",
+          "duration": 245
+        },
+        {
+          "id": "holy-quran-daily-29",
+          "episodeNumber": 29,
+          "title": "Al-Emran (8/11)",
+          "description": "Sourat Al-Emran (Verses 133-152)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/003/08.mp3",
+          "publishedAt": "2005-12-24",
+          "duration": 0
+        },
+        {
+          "id": "holy-quran-daily-30",
+          "episodeNumber": 30,
+          "title": "Al-Emran (9/11)",
+          "description": "Sourat Al-Emran (Verses 153-170)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/003/09.mp3",
+          "publishedAt": "2005-12-25",
+          "duration": 316
+        },
+        {
+          "id": "holy-quran-daily-31",
+          "episodeNumber": 31,
+          "title": "Al-Emran (10/11)",
+          "description": "Sourat Al-Emran (Verses 171-185)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/003/10.mp3",
+          "publishedAt": "2005-12-26",
+          "duration": 275
+        },
+        {
+          "id": "holy-quran-daily-32",
+          "episodeNumber": 32,
+          "title": "Al-Emran (11/11)",
+          "description": "Sourat Al-Emran (Verses 186-200)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/003/11.mp3",
+          "publishedAt": "2005-12-27",
+          "duration": 268
+        },
+        {
+          "id": "holy-quran-daily-33",
+          "episodeNumber": 33,
+          "title": "Al-Nisa&#8217; (1/12)",
+          "description": "Sourat Al-Nisa' (Verses 1-11)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/004/01.mp3",
+          "publishedAt": "2005-12-28",
+          "duration": 284
+        },
+        {
+          "id": "holy-quran-daily-34",
+          "episodeNumber": 34,
+          "title": "Al-Nisa&#8217; (2/12)",
+          "description": "Sourat Al-Nisa' (Verses 12-23)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/004/02.mp3",
+          "publishedAt": "2005-12-29",
+          "duration": 338
+        },
+        {
+          "id": "holy-quran-daily-35",
+          "episodeNumber": 35,
+          "title": "Al-Nisa&#8217; (3/12)",
+          "description": "Sourat Al-Nisa' (Verses 24-35)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/004/03.mp3",
+          "publishedAt": "2005-12-30",
+          "duration": 264
+        },
+        {
+          "id": "holy-quran-daily-36",
+          "episodeNumber": 36,
+          "title": "Al-Nisa&#8217; (4/12)",
+          "description": "Sourat Al-Nisa' (Verses 36-57)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/004/04.mp3",
+          "publishedAt": "2005-12-31",
+          "duration": 350
+        },
+        {
+          "id": "holy-quran-daily-37",
+          "episodeNumber": 37,
+          "title": "Al-Nisa&#8217; (5/12)",
+          "description": "Sourat Al-Nisa' (Verses 58-73)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/004/05.mp3",
+          "publishedAt": "2006-01-01",
+          "duration": 227
+        },
+        {
+          "id": "holy-quran-daily-38",
+          "episodeNumber": 38,
+          "title": "Al-Nisa&#8217; (6/12)",
+          "description": "Sourat Al-Nisa' (Verses 74-87)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/004/06.mp3",
+          "publishedAt": "2006-01-02",
+          "duration": 255
+        },
+        {
+          "id": "holy-quran-daily-39",
+          "episodeNumber": 39,
+          "title": "Al-Nisa&#8217; (7/12)",
+          "description": "Sourat Al-Nisa' (Verses 88-100)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/004/07.mp3",
+          "publishedAt": "2006-01-03",
+          "duration": 354
+        },
+        {
+          "id": "holy-quran-daily-40",
+          "episodeNumber": 40,
+          "title": "Al-Nisa&#8217; (8/12)",
+          "description": "Sourat Al-Nisa' (Verses 101-113)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/004/08.mp3",
+          "publishedAt": "2006-01-04",
+          "duration": 293
+        },
+        {
+          "id": "holy-quran-daily-41",
+          "episodeNumber": 41,
+          "title": "Al-Nisa&#8217; (9/12)",
+          "description": "Sourat Al-Nisa' (Verses 114-134)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/004/09.mp3",
+          "publishedAt": "2006-01-05",
+          "duration": 376
+        },
+        {
+          "id": "holy-quran-daily-42",
+          "episodeNumber": 42,
+          "title": "Al-Nisa&#8217; (10/12)",
+          "description": "Sourat Al-Nisa' (Verses 135-147)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/004/10.mp3",
+          "publishedAt": "2006-01-06",
+          "duration": 260
+        },
+        {
+          "id": "holy-quran-daily-43",
+          "episodeNumber": 43,
+          "title": "Al-Nisa&#8217; (11/12)",
+          "description": "Sourat Al-Nisa' (Verses 148-162)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/004/11.mp3",
+          "publishedAt": "2006-01-07",
+          "duration": 229
+        },
+        {
+          "id": "holy-quran-daily-44",
+          "episodeNumber": 44,
+          "title": "Al-Nisa&#8217; (12/12)",
+          "description": "Sourat Al-Nisa' (Verses 163-176)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/004/12.mp3",
+          "publishedAt": "2006-01-11",
+          "duration": 238
+        },
+        {
+          "id": "holy-quran-daily-45",
+          "episodeNumber": 45,
+          "title": "Al-Ma&#8217;eda (1/9)",
+          "description": "Sourat Al-Ma'eda (Verses 1-11)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/005/01.mp3",
+          "publishedAt": "2006-01-12",
+          "duration": 296
+        },
+        {
+          "id": "holy-quran-daily-46",
+          "episodeNumber": 46,
+          "title": "Al-Ma&#8217;eda (2/9)",
+          "description": "Sourat Al-Ma'eda (Verses 12-26)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/005/03.mp3",
+          "publishedAt": "2006-01-13",
+          "duration": 298
+        },
+        {
+          "id": "holy-quran-daily-47",
+          "episodeNumber": 47,
+          "title": "Al-Ma&#8217;eda (3/9)",
+          "description": "Sourat Al-Ma'eda (Verses 27-40)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/005/04.mp3",
+          "publishedAt": "2006-01-14",
+          "duration": 286
+        },
+        {
+          "id": "holy-quran-daily-48",
+          "episodeNumber": 48,
+          "title": "Al-Ma&#8217;eda (4/9)",
+          "description": "Sourat Al-Ma'eda (Verses 41-50)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/005/05.mp3",
+          "publishedAt": "2006-01-16",
+          "duration": 335
+        },
+        {
+          "id": "holy-quran-daily-49",
+          "episodeNumber": 49,
+          "title": "Al-Ma&#8217;eda (5/9)",
+          "description": "Sourat Al-Ma'eda (Verses 51-66)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/005/06.mp3",
+          "publishedAt": "2006-01-16",
+          "duration": 342
+        },
+        {
+          "id": "holy-quran-daily-50",
+          "episodeNumber": 50,
+          "title": "Al-Ma&#8217;eda (6/9)",
+          "description": "Sourat Al-Ma'eda (Verses 67-81)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/005/07.mp3",
+          "publishedAt": "2006-01-18",
+          "duration": 297
+        },
+        {
+          "id": "holy-quran-daily-51",
+          "episodeNumber": 51,
+          "title": "Al-Ma&#8217;eda (7/9)",
+          "description": "Sourat Al-Ma'eda (Verses 82-96)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/005/08.mp3",
+          "publishedAt": "2006-01-19",
+          "duration": 290
+        },
+        {
+          "id": "holy-quran-daily-52",
+          "episodeNumber": 52,
+          "title": "Al-Ma&#8217;eda (8/9)",
+          "description": "Sourat Al-Ma'eda (Verses 97-108)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/005/09.mp3",
+          "publishedAt": "2006-01-20",
+          "duration": 207
+        },
+        {
+          "id": "holy-quran-daily-53",
+          "episodeNumber": 53,
+          "title": "Al-Ma&#8217;eda (9/9)",
+          "description": "Sourat Al-Ma'eda (Verses 109-120)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/005/10.mp3",
+          "publishedAt": "2006-01-21",
+          "duration": 227
+        },
+        {
+          "id": "holy-quran-daily-54",
+          "episodeNumber": 54,
+          "title": "Al-An&#8217;am (1/10)",
+          "description": "Sourat Al-An'am (Verses 1-12)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/006/01.mp3",
+          "publishedAt": "2006-01-22",
+          "duration": 139
+        },
+        {
+          "id": "holy-quran-daily-55",
+          "episodeNumber": 55,
+          "title": "Al-An&#8217;am (2/10)",
+          "description": "Sourat Al-An'am (Verses 13-35)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/006/02.mp3",
+          "publishedAt": "2006-01-23",
+          "duration": 298
+        },
+        {
+          "id": "holy-quran-daily-56",
+          "episodeNumber": 56,
+          "title": "Al-An&#8217;am (3/10)",
+          "description": "Sourat Al-An'am (Verses 36-58)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/006/03.mp3",
+          "publishedAt": "2006-01-24",
+          "duration": 374
+        },
+        {
+          "id": "holy-quran-daily-57",
+          "episodeNumber": 57,
+          "title": "Al-An&#8217;am (4/10)",
+          "description": "Sourat Al-An'am (Verses 59-73)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/006/04.mp3",
+          "publishedAt": "2006-01-25",
+          "duration": 276
+        },
+        {
+          "id": "holy-quran-daily-58",
+          "episodeNumber": 58,
+          "title": "Al-An&#8217;am (5/10)",
+          "description": "Sourat Al-An'am (Verses 74-94)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/006/05.mp3",
+          "publishedAt": "2006-01-26",
+          "duration": 403
+        },
+        {
+          "id": "holy-quran-daily-59",
+          "episodeNumber": 59,
+          "title": "Al-An&#8217;am (6/10)",
+          "description": "Sourat Al-An'am (Verses 95-110)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/006/06.mp3",
+          "publishedAt": "2006-01-27",
+          "duration": 273
+        },
+        {
+          "id": "holy-quran-daily-60",
+          "episodeNumber": 60,
+          "title": "Al-An&#8217;am (7/10)",
+          "description": "Sourat Al-An'am (Verses 111-126)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/006/07.mp3",
+          "publishedAt": "2006-01-28",
+          "duration": 253
+        },
+        {
+          "id": "holy-quran-daily-61",
+          "episodeNumber": 61,
+          "title": "Al-An&#8217;am (8/10)",
+          "description": "Sourat Al-An'am (Verses 127-140)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/006/08.mp3",
+          "publishedAt": "2006-01-29",
+          "duration": 235
+        },
+        {
+          "id": "holy-quran-daily-62",
+          "episodeNumber": 62,
+          "title": "Al-An&#8217;am (9/10)",
+          "description": "Sourat Al-An'am (Verses 141-150)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/006/09.mp3",
+          "publishedAt": "2006-01-30",
+          "duration": 215
+        },
+        {
+          "id": "holy-quran-daily-63",
+          "episodeNumber": 63,
+          "title": "Al-An&#8217;am (10/10)",
+          "description": "Sourat Al-An'am (Verses 151-165)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/006/10.mp3",
+          "publishedAt": "2006-01-31",
+          "duration": 271
+        },
+        {
+          "id": "holy-quran-daily-64",
+          "episodeNumber": 64,
+          "title": "Al-A&#8217;raf (1/10)",
+          "description": "Sourat Al-A'raf (Verses 1-30)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/007/01.mp3",
+          "publishedAt": "2006-02-01",
+          "duration": 422
+        },
+        {
+          "id": "holy-quran-daily-65",
+          "episodeNumber": 65,
+          "title": "Al-A&#8217;raf (2/10)",
+          "description": "Sourat Al-A'raf (Verses 31-46)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/007/02.mp3",
+          "publishedAt": "2006-02-02",
+          "duration": 346
+        },
+        {
+          "id": "holy-quran-daily-66",
+          "episodeNumber": 66,
+          "title": "Al-A&#8217;raf (3/10)",
+          "description": "Sourat Al-A'raf (Verses 47-64)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/007/03.mp3",
+          "publishedAt": "2006-02-03",
+          "duration": 304
+        },
+        {
+          "id": "holy-quran-daily-67",
+          "episodeNumber": 67,
+          "title": "Al-A&#8217;raf (4/10)",
+          "description": "Sourat Al-A'raf (Verses 65-87)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/007/04.mp3",
+          "publishedAt": "2006-02-04",
+          "duration": 374
+        },
+        {
+          "id": "holy-quran-daily-68",
+          "episodeNumber": 68,
+          "title": "Al-A&#8217;raf (5/10)",
+          "description": "Sourat Al-A'raf (Verses 88-116)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/007/05.mp3",
+          "publishedAt": "2006-02-05",
+          "duration": 331
+        },
+        {
+          "id": "holy-quran-daily-69",
+          "episodeNumber": 69,
+          "title": "Al-A&#8217;raf (6/10)",
+          "description": "Sourat Al-A'raf (Verses 117-141)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/007/06.mp3",
+          "publishedAt": "2006-02-06",
+          "duration": 288
+        },
+        {
+          "id": "holy-quran-daily-70",
+          "episodeNumber": 70,
+          "title": "Al-A&#8217;raf (7/10)",
+          "description": "Sourat Al-A'raf (Verses 142-155)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/007/07.mp3",
+          "publishedAt": "2006-02-07",
+          "duration": 261
+        },
+        {
+          "id": "holy-quran-daily-71",
+          "episodeNumber": 71,
+          "title": "Al-A&#8217;raf (8/10)",
+          "description": "Sourat Al-A'raf (Verses 156-170)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/007/08.mp3",
+          "publishedAt": "2006-02-08",
+          "duration": 305
+        },
+        {
+          "id": "holy-quran-daily-72",
+          "episodeNumber": 72,
+          "title": "Al-A&#8217;raf (9/10)",
+          "description": "Sourat Al-A'raf (Verses 171-188)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/007/09.mp3",
+          "publishedAt": "2006-02-09",
+          "duration": 315
+        },
+        {
+          "id": "holy-quran-daily-73",
+          "episodeNumber": 73,
+          "title": "Al-A&#8217;raf (10/10)",
+          "description": "Sourat Al-A'raf (Verses 189-206)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/007/10.mp3",
+          "publishedAt": "2006-02-10",
+          "duration": 248
+        },
+        {
+          "id": "holy-quran-daily-74",
+          "episodeNumber": 74,
+          "title": "Al-Anfal (1/4)",
+          "description": "Sourat Al-Anfal (Verses 1-21)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/008/01.mp3",
+          "publishedAt": "2006-02-11",
+          "duration": 328
+        },
+        {
+          "id": "holy-quran-daily-75",
+          "episodeNumber": 75,
+          "title": "Al-Anfal (2/4)",
+          "description": "Sourat Al-Anfal (Verses 22-40)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/008/02.mp3",
+          "publishedAt": "2006-02-12",
+          "duration": 316
+        },
+        {
+          "id": "holy-quran-daily-76",
+          "episodeNumber": 76,
+          "title": "Al-Anfal (3/4)",
+          "description": "Sourat Al-Anfal (Verses 41-60)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/008/03.mp3",
+          "publishedAt": "2006-02-13",
+          "duration": 315
+        },
+        {
+          "id": "holy-quran-daily-77",
+          "episodeNumber": 77,
+          "title": "Al-Anfal (4/4)",
+          "description": "Sourat Al-Anfal (Verses 61-75)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/008/04.mp3",
+          "publishedAt": "2006-02-14",
+          "duration": 246
+        },
+        {
+          "id": "holy-quran-daily-78",
+          "episodeNumber": 78,
+          "title": "Al-Tawbah (1/9)",
+          "description": "Sourat Al-Tawbah (Verses 1-18)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/009/01.mp3",
+          "publishedAt": "2006-02-15",
+          "duration": 278
+        },
+        {
+          "id": "holy-quran-daily-79",
+          "episodeNumber": 79,
+          "title": "Al-Tawbah (2/9)",
+          "description": "Sourat Al-Tawbah (Verses 19-33)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/009/02.mp3",
+          "publishedAt": "2006-02-16",
+          "duration": 267
+        },
+        {
+          "id": "holy-quran-daily-80",
+          "episodeNumber": 80,
+          "title": "Al-Tawbah (3/9)",
+          "description": "Sourat Al-Tawbah (Verses 34-45)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/009/03.mp3",
+          "publishedAt": "2006-02-17",
+          "duration": 299
+        },
+        {
+          "id": "holy-quran-daily-81",
+          "episodeNumber": 81,
+          "title": "Al-Tawbah (4/9)",
+          "description": "Sourat Al-Tawbah (Verses 46-59)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/009/04.mp3",
+          "publishedAt": "2006-02-18",
+          "duration": 225
+        },
+        {
+          "id": "holy-quran-daily-82",
+          "episodeNumber": 82,
+          "title": "Al-Tawbah (5/9)",
+          "description": "Sourat Al-Tawbah (Verses 60-74)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/009/05.mp3",
+          "publishedAt": "2006-02-19",
+          "duration": 344
+        },
+        {
+          "id": "holy-quran-daily-83",
+          "episodeNumber": 83,
+          "title": "Al-Tawbah (6/9)",
+          "description": "Sourat Al-Tawbah (Verses 75-92)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/009/06.mp3",
+          "publishedAt": "2006-02-20",
+          "duration": 305
+        },
+        {
+          "id": "holy-quran-daily-84",
+          "episodeNumber": 84,
+          "title": "Al-Tawbah (7/9)",
+          "description": "Sourat Al-Tawbah (Verses 93-110)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/009/07.mp3",
+          "publishedAt": "2006-02-23",
+          "duration": 313
+        },
+        {
+          "id": "holy-quran-daily-85",
+          "episodeNumber": 85,
+          "title": "Al-Tawbah (8/9)",
+          "description": "Sourat Al-Tawbah (Verses 111-121)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/009/08.mp3",
+          "publishedAt": "2006-02-24",
+          "duration": 214
+        },
+        {
+          "id": "holy-quran-daily-86",
+          "episodeNumber": 86,
+          "title": "Al-Tawbah (9/9)",
+          "description": "Sourat Al-Tawbah (Verses 121-129)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/009/09.mp3",
+          "publishedAt": "2006-02-26",
+          "duration": 114
+        },
+        {
+          "id": "holy-quran-daily-87",
+          "episodeNumber": 87,
+          "title": "Younus (1/6)",
+          "description": "Sourat Younus (Verses 1-10)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/010/01.mp3",
+          "publishedAt": "2006-02-27",
+          "duration": 144
+        },
+        {
+          "id": "holy-quran-daily-88",
+          "episodeNumber": 88,
+          "title": "Younus (2/6)",
+          "description": "Sourat Younus (Verses 11-25)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/010/02.mp3",
+          "publishedAt": "2006-02-28",
+          "duration": 290
+        },
+        {
+          "id": "holy-quran-daily-89",
+          "episodeNumber": 89,
+          "title": "Younus (3/6)",
+          "description": "Sourat Younus (Verses 26-52)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/010/03.mp3",
+          "publishedAt": "2006-03-01",
+          "duration": 424
+        },
+        {
+          "id": "holy-quran-daily-90",
+          "episodeNumber": 90,
+          "title": "Younus (4/6)",
+          "description": "Sourat Younus (Verses 53-70)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/010/04.mp3",
+          "publishedAt": "2006-03-02",
+          "duration": 263
+        },
+        {
+          "id": "holy-quran-daily-91",
+          "episodeNumber": 91,
+          "title": "Younus (5/6)",
+          "description": "Sourat Younus (Verses 71-89)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/010/05.mp3",
+          "publishedAt": "2006-03-03",
+          "duration": 286
+        },
+        {
+          "id": "holy-quran-daily-92",
+          "episodeNumber": 92,
+          "title": "Younus (6/6)",
+          "description": "Sourat Younus (Verses 90-109)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/010/06.mp3",
+          "publishedAt": "2006-03-04",
+          "duration": 312
+        },
+        {
+          "id": "holy-quran-daily-93",
+          "episodeNumber": 93,
+          "title": "Houd (1/7)",
+          "description": "Sourat Houd (Verses 1-5)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/011/01.mp3",
+          "publishedAt": "2006-03-05",
+          "duration": 0
+        },
+        {
+          "id": "holy-quran-daily-94",
+          "episodeNumber": 94,
+          "title": "Houd (2/7)",
+          "description": "Sourat Houd (Verses 6-23)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/011/02.mp3",
+          "publishedAt": "2006-03-07",
+          "duration": 270
+        },
+        {
+          "id": "holy-quran-daily-95",
+          "episodeNumber": 95,
+          "title": "Houd (3/7)",
+          "description": "Sourat Houd (Verses 24-40)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/011/03.mp3",
+          "publishedAt": "2006-03-08",
+          "duration": 216
+        },
+        {
+          "id": "holy-quran-daily-96",
+          "episodeNumber": 96,
+          "title": "Houd (4/7)",
+          "description": "Sourat Houd (Verses 41-60)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/011/04.mp3",
+          "publishedAt": "2006-03-08",
+          "duration": 263
+        },
+        {
+          "id": "holy-quran-daily-97",
+          "episodeNumber": 97,
+          "title": "Houd (5/7)",
+          "description": "Sourat Houd (Verses 61-83)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/011/05.mp3",
+          "publishedAt": "2006-03-08",
+          "duration": 340
+        },
+        {
+          "id": "holy-quran-daily-98",
+          "episodeNumber": 98,
+          "title": "Houd (6/7)",
+          "description": "Sourat Houd (Verses 84-107)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/011/06.mp3",
+          "publishedAt": "2006-03-13",
+          "duration": 368
+        },
+        {
+          "id": "holy-quran-daily-99",
+          "episodeNumber": 99,
+          "title": "Houd (7/7)",
+          "description": "Sourat Houd (Verses 108-123)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/011/07.mp3",
+          "publishedAt": "2006-03-14",
+          "duration": 253
+        },
+        {
+          "id": "holy-quran-daily-100",
+          "episodeNumber": 100,
+          "title": "Yousuf (1/6)",
+          "description": "Sourat Yousuf (Verses 1-6)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/012/01.mp3",
+          "publishedAt": "2006-03-15",
+          "duration": 99
+        },
+        {
+          "id": "holy-quran-daily-101",
+          "episodeNumber": 101,
+          "title": "Yousuf (2/6)",
+          "description": "Sourat Yousuf (Verses 7-29)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/012/02.mp3",
+          "publishedAt": "2006-03-16",
+          "duration": 369
+        },
+        {
+          "id": "holy-quran-daily-102",
+          "episodeNumber": 102,
+          "title": "Yousuf (3/6)",
+          "description": "Sourat Yousuf (Verses 30-52)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/012/03.mp3",
+          "publishedAt": "2006-03-17",
+          "duration": 348
+        },
+        {
+          "id": "holy-quran-daily-103",
+          "episodeNumber": 103,
+          "title": "Yousuf (4/6)",
+          "description": "Sourat Yousuf (Verses 53-76)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/012/04.mp3",
+          "publishedAt": "2006-03-18",
+          "duration": 283
+        },
+        {
+          "id": "holy-quran-daily-104",
+          "episodeNumber": 104,
+          "title": "Yousuf (5/6)",
+          "description": "Sourat Yousuf (Verses 77-100)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/012/05.mp3",
+          "publishedAt": "2006-03-19",
+          "duration": 282
+        },
+        {
+          "id": "holy-quran-daily-105",
+          "episodeNumber": 105,
+          "title": "Yousuf (6/6)",
+          "description": "Sourat Yousuf (Verses 101-111)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/012/06.mp3",
+          "publishedAt": "2006-03-20",
+          "duration": 132
+        },
+        {
+          "id": "holy-quran-daily-106",
+          "episodeNumber": 106,
+          "title": "Al-Ra&#8217;d (1/4)",
+          "description": "Sourat Al-Ra'd (Verses 1-4)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/013/01.mp3",
+          "publishedAt": "2006-03-21",
+          "duration": 113
+        },
+        {
+          "id": "holy-quran-daily-107",
+          "episodeNumber": 107,
+          "title": "Al-Ra&#8217;d (2/4)",
+          "description": "Sourat Al-Ra'd (Verses 5-18)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/013/02.mp3",
+          "publishedAt": "2006-03-22",
+          "duration": 327
+        },
+        {
+          "id": "holy-quran-daily-108",
+          "episodeNumber": 108,
+          "title": "Al-Ra&#8217;d (3/4)",
+          "description": "Sourat Al-Ra'd (Verses 19-34)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/013/03.mp3",
+          "publishedAt": "2006-03-23",
+          "duration": 298
+        },
+        {
+          "id": "holy-quran-daily-109",
+          "episodeNumber": 109,
+          "title": "Al-Ra&#8217;d (4/4)",
+          "description": "Sourat Al-Ra'd (Verses 35-43)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/013/04.mp3",
+          "publishedAt": "2006-03-25",
+          "duration": 153
+        },
+        {
+          "id": "holy-quran-daily-110",
+          "episodeNumber": 110,
+          "title": "Ibrahim (1/3)",
+          "description": "Sourat Ibrahim (Verses 1-9)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/014/01.mp3",
+          "publishedAt": "2006-03-27",
+          "duration": 181
+        },
+        {
+          "id": "holy-quran-daily-111",
+          "episodeNumber": 111,
+          "title": "Ibrahim (2/3)",
+          "description": "Sourat Ibrahim (Verses 10-27)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/014/02.mp3",
+          "publishedAt": "2006-03-28",
+          "duration": 303
+        },
+        {
+          "id": "holy-quran-daily-112",
+          "episodeNumber": 112,
+          "title": "Ibrahim (3/3)",
+          "description": "Sourat Ibrahim (Verses 28-52)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/014/03.mp3",
+          "publishedAt": "2006-03-29",
+          "duration": 302
+        },
+        {
+          "id": "holy-quran-daily-113",
+          "episodeNumber": 113,
+          "title": "Al-Hijr (1/2)",
+          "description": "Sourat Al-Hijr (Verses 1-48)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/015/02.mp3",
+          "publishedAt": "2006-03-30",
+          "duration": 291
+        },
+        {
+          "id": "holy-quran-daily-114",
+          "episodeNumber": 114,
+          "title": "Al-Hijr (2/2)",
+          "description": "Sourat Al-Hijr (Verses 49-99)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/015/01.mp3",
+          "publishedAt": "2006-03-31",
+          "duration": 303
+        },
+        {
+          "id": "holy-quran-daily-115",
+          "episodeNumber": 115,
+          "title": "Al-Nahl (1/6)",
+          "description": "Sourat Al-Nahl (Verses 1-29)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/016/01.mp3",
+          "publishedAt": "2006-04-01",
+          "duration": 367
+        },
+        {
+          "id": "holy-quran-daily-116",
+          "episodeNumber": 116,
+          "title": "Al-Nahl (2/6)",
+          "description": "Sourat Al-Nahl (Verses 30-50)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/016/02.mp3",
+          "publishedAt": "2006-04-02",
+          "duration": 300
+        },
+        {
+          "id": "holy-quran-daily-117",
+          "episodeNumber": 117,
+          "title": "Al-Nahl (3/6)",
+          "description": "Sourat Al-Nahl (Verses 51-74)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/016/03.mp3",
+          "publishedAt": "2006-04-03",
+          "duration": 355
+        },
+        {
+          "id": "holy-quran-daily-118",
+          "episodeNumber": 118,
+          "title": "Al-Nahl (4/6)",
+          "description": "Sourat Al-Nahl (Verses 75-89)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/016/04.mp3",
+          "publishedAt": "2006-04-04",
+          "duration": 231
+        },
+        {
+          "id": "holy-quran-daily-119",
+          "episodeNumber": 119,
+          "title": "Al-Nahl (5/6)",
+          "description": "Sourat Al-Nahl (Verses 90-110)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/016/05.mp3",
+          "publishedAt": "2006-04-05",
+          "duration": 276
+        },
+        {
+          "id": "holy-quran-daily-120",
+          "episodeNumber": 120,
+          "title": "Al-Nahl (6/6)",
+          "description": "Sourat Al-Nahl (Verses 111-128)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/016/06.mp3",
+          "publishedAt": "2006-04-06",
+          "duration": 200
+        },
+        {
+          "id": "holy-quran-daily-121",
+          "episodeNumber": 121,
+          "title": "Al-Isra&#8217; (1/5)",
+          "description": "Sourat Al-Isra' (Verses 1-22)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/017/01.mp3",
+          "publishedAt": "2006-04-07",
+          "duration": 324
+        },
+        {
+          "id": "holy-quran-daily-122",
+          "episodeNumber": 122,
+          "title": "Al-Isra&#8217; (2/5)",
+          "description": "Sourat Al-Isra' (Verses 23-49)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/017/02.mp3",
+          "publishedAt": "2006-04-08",
+          "duration": 343
+        },
+        {
+          "id": "holy-quran-daily-123",
+          "episodeNumber": 123,
+          "title": "Al-Isra&#8217; (3/5)",
+          "description": "Sourat Al-Isra' (Verses 50-69)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/017/03.mp3",
+          "publishedAt": "2006-04-09",
+          "duration": 312
+        },
+        {
+          "id": "holy-quran-daily-124",
+          "episodeNumber": 124,
+          "title": "Al-Isra&#8217; (4/5)",
+          "description": "Sourat Al-Isra' (Verses 70-98)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/017/04.mp3",
+          "publishedAt": "2006-04-10",
+          "duration": 387
+        },
+        {
+          "id": "holy-quran-daily-125",
+          "episodeNumber": 125,
+          "title": "Al-Isra&#8217; (5/5)",
+          "description": "Sourat Al-Isra' (Verses 99-111)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/017/05.mp3",
+          "publishedAt": "2006-04-11",
+          "duration": 180
+        },
+        {
+          "id": "holy-quran-daily-126",
+          "episodeNumber": 126,
+          "title": "Al-Kahf (1/6)",
+          "description": "Sourat Al-Kahf (Verses 1-16)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/018/01.mp3",
+          "publishedAt": "2006-04-12",
+          "duration": 148
+        },
+        {
+          "id": "holy-quran-daily-127",
+          "episodeNumber": 127,
+          "title": "Al-Kahf (2/6)",
+          "description": "Sourat Al-Kahf (Verses 17-31)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/018/02.mp3",
+          "publishedAt": "2006-04-14",
+          "duration": 269
+        },
+        {
+          "id": "holy-quran-daily-128",
+          "episodeNumber": 128,
+          "title": "Al-Kahf (3/6)",
+          "description": "Sourat Al-Kahf (Verses 32-50)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/018/03.mp3",
+          "publishedAt": "2006-04-15",
+          "duration": 233
+        },
+        {
+          "id": "holy-quran-daily-129",
+          "episodeNumber": 129,
+          "title": "Al-Kahf (4/6)",
+          "description": "Sourat Al-Kahf (Verses 51-74)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/018/04.mp3",
+          "publishedAt": "2006-04-16",
+          "duration": 275
+        },
+        {
+          "id": "holy-quran-daily-130",
+          "episodeNumber": 130,
+          "title": "Al-Kahf (5/6)",
+          "description": "Sourat Al-Kahf (Verses 75-98)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/018/05.mp3",
+          "publishedAt": "2006-04-17",
+          "duration": 278
+        },
+        {
+          "id": "holy-quran-daily-131",
+          "episodeNumber": 131,
+          "title": "Al-Kahf (6/6)",
+          "description": "Sourat Al-Kahf (Verses 99-110)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/018/06.mp3",
+          "publishedAt": "2006-04-18",
+          "duration": 201
+        },
+        {
+          "id": "holy-quran-daily-132",
+          "episodeNumber": 132,
+          "title": "Maryam (1/3)",
+          "description": "Sourat Maryam (Verses 1-21)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/019/01.mp3",
+          "publishedAt": "2006-04-19",
+          "duration": 201
+        },
+        {
+          "id": "holy-quran-daily-133",
+          "episodeNumber": 133,
+          "title": "Maryam (2/3)",
+          "description": "Sourat Maryam (Verses 22-58)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/019/02.mp3",
+          "publishedAt": "2006-04-20",
+          "duration": 391
+        },
+        {
+          "id": "holy-quran-daily-134",
+          "episodeNumber": 134,
+          "title": "Maryam (3/3)",
+          "description": "Sourat Maryam (Verses 59-98)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/019/03.mp3",
+          "publishedAt": "2006-04-21",
+          "duration": 323
+        },
+        {
+          "id": "holy-quran-daily-135",
+          "episodeNumber": 135,
+          "title": "Taha (1/4)",
+          "description": "Sourat Taha (Verses 1-54)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/020/01.mp3",
+          "publishedAt": "2006-04-22",
+          "duration": 299
+        },
+        {
+          "id": "holy-quran-daily-136",
+          "episodeNumber": 136,
+          "title": "Taha (2/4)",
+          "description": "Sourat Taha (Verses 55-82)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/020/02.mp3",
+          "publishedAt": "2006-04-23",
+          "duration": 253
+        },
+        {
+          "id": "holy-quran-daily-137",
+          "episodeNumber": 137,
+          "title": "Taha (3/4)",
+          "description": "Sourat Taha (Verses 82-110)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/020/03.mp3",
+          "publishedAt": "2006-04-24",
+          "duration": 279
+        },
+        {
+          "id": "holy-quran-daily-138",
+          "episodeNumber": 138,
+          "title": "Taha (4/4)",
+          "description": "Sourat Taha (Verses 111-135)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/020/04.mp3",
+          "publishedAt": "2006-04-25",
+          "duration": 297
+        },
+        {
+          "id": "holy-quran-daily-139",
+          "episodeNumber": 139,
+          "title": "Al-Anbiya&#8217; (1/4)",
+          "description": "Sourat Al-Anbiya' (Verses 1-28)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/021/01.mp3",
+          "publishedAt": "2006-04-26",
+          "duration": 282
+        },
+        {
+          "id": "holy-quran-daily-140",
+          "episodeNumber": 140,
+          "title": "Al-Anbiya&#8217; (2/4)",
+          "description": "Sourat Al-Anbiya' (Verses 29-50)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/021/02.mp3",
+          "publishedAt": "2006-04-27",
+          "duration": 298
+        },
+        {
+          "id": "holy-quran-daily-141",
+          "episodeNumber": 141,
+          "title": "Al-Anbiya&#8217; (3/4)",
+          "description": "Sourat Al-Anbiya' (Verses 51-82)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/021/03.mp3",
+          "publishedAt": "2006-04-28",
+          "duration": 262
+        },
+        {
+          "id": "holy-quran-daily-142",
+          "episodeNumber": 142,
+          "title": "Al-Anbiya&#8217; (4/4)",
+          "description": "Sourat Al-Anbiya' (Verses 83-112)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/021/04.mp3",
+          "publishedAt": "2006-04-29",
+          "duration": 265
+        },
+        {
+          "id": "holy-quran-daily-143",
+          "episodeNumber": 143,
+          "title": "Al-Hajj (1/4)",
+          "description": "Sourat Al-Hajj (Verses 1-18)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/022/01.mp3",
+          "publishedAt": "2006-04-30",
+          "duration": 266
+        },
+        {
+          "id": "holy-quran-daily-144",
+          "episodeNumber": 144,
+          "title": "Al-Hajj (2/4)",
+          "description": "Sourat Al-Hajj (Verses 19-37)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/022/02.mp3",
+          "publishedAt": "2006-05-01",
+          "duration": 324
+        },
+        {
+          "id": "holy-quran-daily-145",
+          "episodeNumber": 145,
+          "title": "Al-Hajj (3/4)",
+          "description": "Sourat Al-Hajj (Verses 38-59)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/022/03.mp3",
+          "publishedAt": "2006-05-02",
+          "duration": 333
+        },
+        {
+          "id": "holy-quran-daily-146",
+          "episodeNumber": 146,
+          "title": "Al-Hajj (4/4)",
+          "description": "Sourat Al-Hajj (Verses 60-78)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/022/04.mp3",
+          "publishedAt": "2006-05-03",
+          "duration": 327
+        },
+        {
+          "id": "holy-quran-daily-147",
+          "episodeNumber": 147,
+          "title": "Al-Mo&#8217;menoon (1/3)",
+          "description": "Sourat Al-Mo'menoon (Verses 1-35)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/023/01.mp3",
+          "publishedAt": "2006-05-05",
+          "duration": 363
+        },
+        {
+          "id": "holy-quran-daily-148",
+          "episodeNumber": 148,
+          "title": "Al-Mo&#8217;menoon (2/3)",
+          "description": "Sourat Al-Mo'menoon (Verses 36-74)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/023/02.mp3",
+          "publishedAt": "2006-05-06",
+          "duration": 271
+        },
+        {
+          "id": "holy-quran-daily-149",
+          "episodeNumber": 149,
+          "title": "Al-Mo&#8217;menoon (3/3)",
+          "description": "Sourat Al-Mo'menoon (Verses 75-118)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/023/03.mp3",
+          "publishedAt": "2006-05-07",
+          "duration": 310
+        },
+        {
+          "id": "holy-quran-daily-150",
+          "episodeNumber": 150,
+          "title": "Al-Noor (1/4)",
+          "description": "Sourat Al-Noor (Verses 1-20)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/024/01.mp3",
+          "publishedAt": "2006-05-08",
+          "duration": 225
+        },
+        {
+          "id": "holy-quran-daily-151",
+          "episodeNumber": 151,
+          "title": "Al-Noor (2/4)",
+          "description": "Sourat Al-Noor (Verses 21-34)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/024/02.mp3",
+          "publishedAt": "2006-05-09",
+          "duration": 348
+        },
+        {
+          "id": "holy-quran-daily-152",
+          "episodeNumber": 152,
+          "title": "Al-Noor (3/4)",
+          "description": "Sourat Al-Noor (Verses 35-52)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/024/03.mp3",
+          "publishedAt": "2006-05-10",
+          "duration": 377
+        },
+        {
+          "id": "holy-quran-daily-153",
+          "episodeNumber": 153,
+          "title": "Al-Noor (4/4)",
+          "description": "Sourat Al-Noor (Verses 53-64)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/024/04.mp3",
+          "publishedAt": "2006-05-11",
+          "duration": 362
+        },
+        {
+          "id": "holy-quran-daily-154",
+          "episodeNumber": 154,
+          "title": "Al-Forqan (1/3)",
+          "description": "Sourat Al-Forqan (Verses 1-20)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/025/01.mp3",
+          "publishedAt": "2006-05-12",
+          "duration": 298
+        },
+        {
+          "id": "holy-quran-daily-155",
+          "episodeNumber": 155,
+          "title": "Al-Forqan (2/3)",
+          "description": "Sourat Al-Forqan (Verses 21-52)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/025/02.mp3",
+          "publishedAt": "2006-05-23",
+          "duration": 285
+        },
+        {
+          "id": "holy-quran-daily-156",
+          "episodeNumber": 156,
+          "title": "Al-Forqan (3/3)",
+          "description": "Sourat Al-Forqan (Verses 53-77)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/025/03.mp3",
+          "publishedAt": "2006-05-25",
+          "duration": 240
+        },
+        {
+          "id": "holy-quran-daily-157",
+          "episodeNumber": 157,
+          "title": "Al-Sho&#8217;ara&#8217; (1/4)",
+          "description": "Sourat Al-Sho'ara' (Verses 1-51)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/026/01.mp3",
+          "publishedAt": "2006-05-26",
+          "duration": 300
+        },
+        {
+          "id": "holy-quran-daily-158",
+          "episodeNumber": 158,
+          "title": "Al-Sho&#8217;ara&#8217; (2/4)",
+          "description": "Sourat Al-Sho'ara' (Verses 52-110)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/026/02.mp3",
+          "publishedAt": "2006-05-27",
+          "duration": 308
+        },
+        {
+          "id": "holy-quran-daily-159",
+          "episodeNumber": 159,
+          "title": "Al-Sho&#8217;ara&#8217; (3/4)",
+          "description": "Sourat Al-Sho'ara' (Verses 111-180)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/026/03.mp3",
+          "publishedAt": "2006-05-28",
+          "duration": 385
+        },
+        {
+          "id": "holy-quran-daily-160",
+          "episodeNumber": 160,
+          "title": "Al-Sho&#8217;ara&#8217; (4/4)",
+          "description": "Sourat Al-Sho'ara' (Verses 181-227)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/026/04.mp3",
+          "publishedAt": "2006-05-29",
+          "duration": 274
+        },
+        {
+          "id": "holy-quran-daily-161",
+          "episodeNumber": 161,
+          "title": "Al-Naml (1/4)",
+          "description": "Sourat Al-Naml (Verses 1-26)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/027/01.mp3",
+          "publishedAt": "2006-05-30",
+          "duration": 337
+        },
+        {
+          "id": "holy-quran-daily-162",
+          "episodeNumber": 162,
+          "title": "Al-Naml (2/4)",
+          "description": "Sourat Al-Naml (Verses 27-55)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/027/02.mp3",
+          "publishedAt": "2006-05-31",
+          "duration": 299
+        },
+        {
+          "id": "holy-quran-daily-163",
+          "episodeNumber": 163,
+          "title": "Al-Naml (3/4)",
+          "description": "Sourat Al-Naml (Verses 56-81)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/027/03.mp3",
+          "publishedAt": "2006-06-01",
+          "duration": 256
+        },
+        {
+          "id": "holy-quran-daily-164",
+          "episodeNumber": 164,
+          "title": "Al-Naml (4/4)",
+          "description": "Sourat Al-Naml (Verses 82-93)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/027/04.mp3",
+          "publishedAt": "2006-06-03",
+          "duration": 133
+        },
+        {
+          "id": "holy-quran-daily-165",
+          "episodeNumber": 165,
+          "title": "Al-Qasas (1/5)",
+          "description": "Sourat Al-Qasas (Verses 1-11)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/028/01.mp3",
+          "publishedAt": "2006-06-08",
+          "duration": 120
+        },
+        {
+          "id": "holy-quran-daily-166",
+          "episodeNumber": 166,
+          "title": "Al-Qasas (2/5)",
+          "description": "Sourat Al-Qasas (Verses 12-28)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/028/02.mp3",
+          "publishedAt": "2006-06-09",
+          "duration": 300
+        },
+        {
+          "id": "holy-quran-daily-167",
+          "episodeNumber": 167,
+          "title": "Al-Qasas (3/5)",
+          "description": "Sourat Al-Qasas (Verses 29-50)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/028/03.mp3",
+          "publishedAt": "2006-06-10",
+          "duration": 382
+        },
+        {
+          "id": "holy-quran-daily-168",
+          "episodeNumber": 168,
+          "title": "Al-Qasas (4/5)",
+          "description": "Sourat Al-Qasas (Verses 51-75)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/028/04.mp3",
+          "publishedAt": "2006-06-11",
+          "duration": 362
+        },
+        {
+          "id": "holy-quran-daily-169",
+          "episodeNumber": 169,
+          "title": "Al-Qasas (5/5)",
+          "description": "Sourat Al-Qasas (Verses 76-88)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/028/05.mp3",
+          "publishedAt": "2006-06-12",
+          "duration": 210
+        },
+        {
+          "id": "holy-quran-daily-170",
+          "episodeNumber": 170,
+          "title": "Al-Ankaboot (1/3)",
+          "description": "Sourat Al-Ankaboot (Verses 1-25)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/029/01.mp3",
+          "publishedAt": "2006-06-13",
+          "duration": 303
+        },
+        {
+          "id": "holy-quran-daily-171",
+          "episodeNumber": 171,
+          "title": "Al-Ankaboot (2/3)",
+          "description": "Sourat Al-Ankaboot (Verses 26-45)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/029/02.mp3",
+          "publishedAt": "2006-06-14",
+          "duration": 253
+        },
+        {
+          "id": "holy-quran-daily-172",
+          "episodeNumber": 172,
+          "title": "Al-Ankaboot (3/3)",
+          "description": "Sourat Al-Ankaboot (Verses 46-69)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/029/03.mp3",
+          "publishedAt": "2006-06-15",
+          "duration": 299
+        },
+        {
+          "id": "holy-quran-daily-173",
+          "episodeNumber": 173,
+          "title": "Al-Room (1/3)",
+          "description": "Sourat Al-Room (Verses 1-30)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/030/01.mp3",
+          "publishedAt": "2006-06-16",
+          "duration": 380
+        },
+        {
+          "id": "holy-quran-daily-174",
+          "episodeNumber": 174,
+          "title": "Al-Room (2/3)",
+          "description": "Sourat Al-Room (Verses 31-53)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/030/02.mp3",
+          "publishedAt": "2006-06-17",
+          "duration": 331
+        },
+        {
+          "id": "holy-quran-daily-175",
+          "episodeNumber": 175,
+          "title": "Al-Room (3/3)",
+          "description": "Sourat Al-Room (Verses 54-60)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/030/03.mp3",
+          "publishedAt": "2006-06-18",
+          "duration": 136
+        },
+        {
+          "id": "holy-quran-daily-176",
+          "episodeNumber": 176,
+          "title": "Loqman (1/2)",
+          "description": "Sourat Loqman (Verses 1-21)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/031/01.mp3",
+          "publishedAt": "2006-06-19",
+          "duration": 302
+        },
+        {
+          "id": "holy-quran-daily-177",
+          "episodeNumber": 177,
+          "title": "Loqman (2/2)",
+          "description": "Sourat Loqman (Verses 22-34)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/031/02.mp3",
+          "publishedAt": "2006-06-20",
+          "duration": 216
+        },
+        {
+          "id": "holy-quran-daily-178",
+          "episodeNumber": 178,
+          "title": "Al-Sajdah (1/2)",
+          "description": "Sourat Al-Sajdah (Verses 1-10)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/032/01.mp3",
+          "publishedAt": "2006-06-21",
+          "duration": 98
+        },
+        {
+          "id": "holy-quran-daily-179",
+          "episodeNumber": 179,
+          "title": "Al-Sajdah (2/2)",
+          "description": "Sourat Al-Sajdah (Verses 11-30)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/032/02.mp3",
+          "publishedAt": "2006-06-22",
+          "duration": 209
+        },
+        {
+          "id": "holy-quran-daily-180",
+          "episodeNumber": 180,
+          "title": "Al-Ahzab (1/5)",
+          "description": "Sourat Al-Ahzab (Verses 1-17)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/033/01.mp3",
+          "publishedAt": "2006-06-23",
+          "duration": 244
+        },
+        {
+          "id": "holy-quran-daily-181",
+          "episodeNumber": 181,
+          "title": "Al-Ahzab (2/5)",
+          "description": "Sourat Al-Ahzab (Verses 18-30)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/033/02.mp3",
+          "publishedAt": "2006-06-24",
+          "duration": 194
+        },
+        {
+          "id": "holy-quran-daily-182",
+          "episodeNumber": 182,
+          "title": "Al-Ahzab (3/5)",
+          "description": "Sourat Al-Ahzab (Verses 31-50)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/033/03.mp3",
+          "publishedAt": "2006-06-25",
+          "duration": 437
+        },
+        {
+          "id": "holy-quran-daily-183",
+          "episodeNumber": 183,
+          "title": "Al-Ahzab (4/5)",
+          "description": "Sourat Al-Ahzab (Verses 51-59)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/033/04.mp3",
+          "publishedAt": "2006-06-26",
+          "duration": 260
+        },
+        {
+          "id": "holy-quran-daily-184",
+          "episodeNumber": 184,
+          "title": "Al-Ahzab (5/5)",
+          "description": "Sourat Al-Ahzab (Verses 60-73)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/033/05.mp3",
+          "publishedAt": "2006-06-27",
+          "duration": 186
+        },
+        {
+          "id": "holy-quran-daily-185",
+          "episodeNumber": 185,
+          "title": "Saba&#8217; (1/4)",
+          "description": "Sourat Saba' (Verses 1-9)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/034/01.mp3",
+          "publishedAt": "2006-06-28",
+          "duration": 158
+        },
+        {
+          "id": "holy-quran-daily-186",
+          "episodeNumber": 186,
+          "title": "Saba&#8217; (2/4)",
+          "description": "Sourat Saba' (Verses 10-23)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/034/02.mp3",
+          "publishedAt": "2006-06-29",
+          "duration": 221
+        },
+        {
+          "id": "holy-quran-daily-187",
+          "episodeNumber": 187,
+          "title": "Saba&#8217; (3/4)",
+          "description": "Sourat Saba' (Verses 24-45)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/034/03.mp3",
+          "publishedAt": "2006-06-30",
+          "duration": 314
+        },
+        {
+          "id": "holy-quran-daily-188",
+          "episodeNumber": 188,
+          "title": "Saba&#8217; (4/4)",
+          "description": "Sourat Saba' (Verses 46-54)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/034/04.mp3",
+          "publishedAt": "2006-07-01",
+          "duration": 88
+        },
+        {
+          "id": "holy-quran-daily-189",
+          "episodeNumber": 189,
+          "title": "Fatir (1/3)",
+          "description": "Sourat Fatir (Verses 1-14)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/035/01.mp3",
+          "publishedAt": "2006-07-02",
+          "duration": 249
+        },
+        {
+          "id": "holy-quran-daily-190",
+          "episodeNumber": 190,
+          "title": "Fatir (2/3)",
+          "description": "Sourat Fatir (Verses 15-40)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/035/02.mp3",
+          "publishedAt": "2006-07-03",
+          "duration": 314
+        },
+        {
+          "id": "holy-quran-daily-191",
+          "episodeNumber": 191,
+          "title": "Fatir (3/3)",
+          "description": "Sourat Fatir (Verses 41-45)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/035/03.mp3",
+          "publishedAt": "2006-07-04",
+          "duration": 100
+        },
+        {
+          "id": "holy-quran-daily-192",
+          "episodeNumber": 192,
+          "title": "Yaseen (1/3)",
+          "description": "Sourat Yaseen (Verses 1-27)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/036/01.mp3",
+          "publishedAt": "2006-07-05",
+          "duration": 252
+        },
+        {
+          "id": "holy-quran-daily-193",
+          "episodeNumber": 193,
+          "title": "Yaseen (2/3)",
+          "description": "Sourat Yaseen (Verses 28-59)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/036/02.mp3",
+          "publishedAt": "2006-07-06",
+          "duration": 318
+        },
+        {
+          "id": "holy-quran-daily-194",
+          "episodeNumber": 194,
+          "title": "Yaseen (3/3)",
+          "description": "Sourat Yaseen (Verses 60-83)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/036/03.mp3",
+          "publishedAt": "2006-07-07",
+          "duration": 223
+        },
+        {
+          "id": "holy-quran-daily-195",
+          "episodeNumber": 195,
+          "title": "Al-Saffat (1/4)",
+          "description": "Sourat Al-Saffat (Verses 1-21)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/037/01.mp3",
+          "publishedAt": "2006-07-08",
+          "duration": 119
+        },
+        {
+          "id": "holy-quran-daily-196",
+          "episodeNumber": 196,
+          "title": "Al-Saffat (2/4)",
+          "description": "Sourat Al-Saffat (Verses 22-82)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/037/02.mp3",
+          "publishedAt": "2006-07-10",
+          "duration": 318
+        },
+        {
+          "id": "holy-quran-daily-197",
+          "episodeNumber": 197,
+          "title": "Al-Saffat (3/4)",
+          "description": "Sourat Al-Saffat (Verses 83-144)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/037/03.mp3",
+          "publishedAt": "2006-07-11",
+          "duration": 266
+        },
+        {
+          "id": "holy-quran-daily-198",
+          "episodeNumber": 198,
+          "title": "Al-Saffat (4/4)",
+          "description": "Sourat Al-Saffat (Verses 145-182)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/037/04.mp3",
+          "publishedAt": "2006-07-12",
+          "duration": 155
+        },
+        {
+          "id": "holy-quran-daily-199",
+          "episodeNumber": 199,
+          "title": "Sad (1/3)",
+          "description": "Sourat Sad (Verses 1-20)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/038/01.mp3",
+          "publishedAt": "2006-07-13",
+          "duration": 145
+        },
+        {
+          "id": "holy-quran-daily-200",
+          "episodeNumber": 200,
+          "title": "Sad (2/3)",
+          "description": "Sourat Sad (Verses 21-51)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/038/02.mp3",
+          "publishedAt": "2006-07-14",
+          "duration": 309
+        },
+        {
+          "id": "holy-quran-daily-201",
+          "episodeNumber": 201,
+          "title": "Sad (3/3)",
+          "description": "Sourat Sad (Verses 52-88)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/038/03.mp3",
+          "publishedAt": "2006-07-15",
+          "duration": 257
+        },
+        {
+          "id": "holy-quran-daily-202",
+          "episodeNumber": 202,
+          "title": "Al-Zomar (1/4)",
+          "description": "Sourat Al-Zomar (Verses 1-7)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/039/01.mp3",
+          "publishedAt": "2006-07-16",
+          "duration": 151
+        },
+        {
+          "id": "holy-quran-daily-203",
+          "episodeNumber": 203,
+          "title": "Al-Zomar (2/4)",
+          "description": "Sourat Al-Zomar (Verses 8-31)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/039/02.mp3",
+          "publishedAt": "2006-07-17",
+          "duration": 367
+        },
+        {
+          "id": "holy-quran-daily-204",
+          "episodeNumber": 204,
+          "title": "Al-Zomar (3/4)",
+          "description": "Sourat Al-Zomar (Verses 32-52)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/039/03.mp3",
+          "publishedAt": "2006-07-18",
+          "duration": 310
+        },
+        {
+          "id": "holy-quran-daily-205",
+          "episodeNumber": 205,
+          "title": "Al-Zomar (4/4)",
+          "description": "Sourat Al-Zomar (Verses 53-75)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/039/04.mp3",
+          "publishedAt": "2006-07-19",
+          "duration": 296
+        },
+        {
+          "id": "holy-quran-daily-206",
+          "episodeNumber": 206,
+          "title": "Ghafer (1/4)",
+          "description": "Sourat Ghafer (Verses 1-20)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/040/01.mp3",
+          "publishedAt": "2006-07-20",
+          "duration": 225
+        },
+        {
+          "id": "holy-quran-daily-207",
+          "episodeNumber": 207,
+          "title": "Ghafer (2/4)",
+          "description": "Sourat Ghafer (Verses 21-40)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/040/02.mp3",
+          "publishedAt": "2006-07-21",
+          "duration": 286
+        },
+        {
+          "id": "holy-quran-daily-208",
+          "episodeNumber": 208,
+          "title": "Ghafer (3/4)",
+          "description": "Sourat Ghafer (Verses 41-65)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/040/03.mp3",
+          "publishedAt": "2006-07-22",
+          "duration": 290
+        },
+        {
+          "id": "holy-quran-daily-209",
+          "episodeNumber": 209,
+          "title": "Ghafer (4/4)",
+          "description": "Sourat Ghafer (Verses 66-85)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/040/04.mp3",
+          "publishedAt": "2006-07-23",
+          "duration": 274
+        },
+        {
+          "id": "holy-quran-daily-210",
+          "episodeNumber": 210,
+          "title": "Fosselat (1/4)",
+          "description": "Sourat Fosselat (Verses 1-8)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/041/01.mp3",
+          "publishedAt": "2006-07-24",
+          "duration": 85
+        },
+        {
+          "id": "holy-quran-daily-211",
+          "episodeNumber": 211,
+          "title": "Fosselat (2/4)",
+          "description": "Sourat Fosselat (Verses 9-24)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/041/02.mp3",
+          "publishedAt": "2006-07-25",
+          "duration": 252
+        },
+        {
+          "id": "holy-quran-daily-212",
+          "episodeNumber": 212,
+          "title": "Fosselat (3/4)",
+          "description": "Sourat Fosselat (Verses 25-46)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/041/03.mp3",
+          "publishedAt": "2006-07-26",
+          "duration": 344
+        },
+        {
+          "id": "holy-quran-daily-213",
+          "episodeNumber": 213,
+          "title": "Fosselat (4/4)",
+          "description": "Sourat Fosselat (Verses 47-54)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/041/04.mp3",
+          "publishedAt": "2006-07-27",
+          "duration": 139
+        },
+        {
+          "id": "holy-quran-daily-214",
+          "episodeNumber": 214,
+          "title": "Al-Shoora (1/4)",
+          "description": "Sourat Al-Shoora (Verses 1-12)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/042/01.mp3",
+          "publishedAt": "2006-07-28",
+          "duration": 168
+        },
+        {
+          "id": "holy-quran-daily-215",
+          "episodeNumber": 215,
+          "title": "Al-Shoora (2/4)",
+          "description": "Sourat Al-Shoora (Verses 13-26)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/042/02.mp3",
+          "publishedAt": "2006-07-29",
+          "duration": 246
+        },
+        {
+          "id": "holy-quran-daily-216",
+          "episodeNumber": 216,
+          "title": "Al-Shoora (3/4)",
+          "description": "Sourat Al-Shoora (Verses 27-50)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/042/03.mp3",
+          "publishedAt": "2006-07-30",
+          "duration": 269
+        },
+        {
+          "id": "holy-quran-daily-217",
+          "episodeNumber": 217,
+          "title": "Al-Shoora (4/4)",
+          "description": "Sourat Al-Shoora (Verses 51-53)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/042/04.mp3",
+          "publishedAt": "2006-07-31",
+          "duration": 51
+        },
+        {
+          "id": "holy-quran-daily-218",
+          "episodeNumber": 218,
+          "title": "Al-Zokhrof (1/3)",
+          "description": "Sourat Al-Zokhrof (Verses 1-23)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/043/01.mp3",
+          "publishedAt": "2006-08-01",
+          "duration": 185
+        },
+        {
+          "id": "holy-quran-daily-219",
+          "episodeNumber": 219,
+          "title": "Al-Zokhrof (2/3)",
+          "description": "Sourat Al-Zokhrof (Verses 24-56)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/043/02.mp3",
+          "publishedAt": "2006-08-02",
+          "duration": 361
+        },
+        {
+          "id": "holy-quran-daily-220",
+          "episodeNumber": 220,
+          "title": "Al-Zokhrof (3/3)",
+          "description": "Sourat Al-Zokhrof (Verses 57-89)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/043/03.mp3",
+          "publishedAt": "2006-08-03",
+          "duration": 317
+        },
+        {
+          "id": "holy-quran-daily-221",
+          "episodeNumber": 221,
+          "title": "Al-Dokhan (1/2)",
+          "description": "Sourat Al-Dokhan (Verses 1-16)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/044/01.mp3",
+          "publishedAt": "2006-08-04",
+          "duration": 108
+        },
+        {
+          "id": "holy-quran-daily-222",
+          "episodeNumber": 222,
+          "title": "Al-Dokhan (2/2)",
+          "description": "Sourat Al-Dokhan (Verses 17-59)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/044/02.mp3",
+          "publishedAt": "2006-08-05",
+          "duration": 280
+        },
+        {
+          "id": "holy-quran-daily-223",
+          "episodeNumber": 223,
+          "title": "Al-Jathiya (1/2)",
+          "description": "Sourat Al-Jathiya (Verses 1-11)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/045/01.mp3",
+          "publishedAt": "2006-08-06",
+          "duration": 131
+        },
+        {
+          "id": "holy-quran-daily-224",
+          "episodeNumber": 224,
+          "title": "Al-Jathiya (2/2)",
+          "description": "Sourat Al-Jathiya (Verses 12-37)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/045/02.mp3",
+          "publishedAt": "2006-08-07",
+          "duration": 327
+        },
+        {
+          "id": "holy-quran-daily-225",
+          "episodeNumber": 225,
+          "title": "Al-Ahqaf (1/1)",
+          "description": "Sourat Al-Ahqaf (Verses 1-35)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/046/01.mp3",
+          "publishedAt": "2006-08-08",
+          "duration": 511
+        },
+        {
+          "id": "holy-quran-daily-226",
+          "episodeNumber": 226,
+          "title": "Muhammad (1/1)",
+          "description": "Sourat Muhammad (Verses 1-38)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/047/01.mp3",
+          "publishedAt": "2006-08-09",
+          "duration": 475
+        },
+        {
+          "id": "holy-quran-daily-227",
+          "episodeNumber": 227,
+          "title": "Al-Fath (1/1)",
+          "description": "Sourat Al-Fath (Verses 1-29)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/048/01.mp3",
+          "publishedAt": "2006-08-10",
+          "duration": 582
+        },
+        {
+          "id": "holy-quran-daily-228",
+          "episodeNumber": 228,
+          "title": "Al-Hojorat (1/1)",
+          "description": "Sourat Al-Hojorat (Verses 1-18)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/049/01.mp3",
+          "publishedAt": "2006-08-11",
+          "duration": 369
+        },
+        {
+          "id": "holy-quran-daily-229",
+          "episodeNumber": 229,
+          "title": "Qaf (1/1)",
+          "description": "Sourat Qaf (Verses 1-45)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/050/01.mp3",
+          "publishedAt": "2006-08-12",
+          "duration": 440
+        },
+        {
+          "id": "holy-quran-daily-230",
+          "episodeNumber": 230,
+          "title": "Al-Thariyat (1/1)",
+          "description": "Sourat Al-Thariyat (Verses 1-60)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/051/01.mp3",
+          "publishedAt": "2006-08-13",
+          "duration": 312
+        },
+        {
+          "id": "holy-quran-daily-231",
+          "episodeNumber": 231,
+          "title": "Al-Toor (1/1)",
+          "description": "Sourat Al-Toor (Verses 1-49)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/052/01.mp3",
+          "publishedAt": "2006-08-14",
+          "duration": 268
+        },
+        {
+          "id": "holy-quran-daily-232",
+          "episodeNumber": 232,
+          "title": "Al-Najm (1/1)",
+          "description": "Sourat Al-Najm (Verses 1-62)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/053/01.mp3",
+          "publishedAt": "2006-08-15",
+          "duration": 374
+        },
+        {
+          "id": "holy-quran-daily-233",
+          "episodeNumber": 233,
+          "title": "Al-Qamar (1/1)",
+          "description": "Sourat Al-Qamar (Verses 1-55)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/054/01.mp3",
+          "publishedAt": "2006-08-16",
+          "duration": 385
+        },
+        {
+          "id": "holy-quran-daily-234",
+          "episodeNumber": 234,
+          "title": "Al-Rahman (1/1)",
+          "description": "Sourat Al-Rahman (Verses 1-78)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/055/01.mp3",
+          "publishedAt": "2006-08-17",
+          "duration": 528
+        },
+        {
+          "id": "holy-quran-daily-235",
+          "episodeNumber": 235,
+          "title": "Al-Waqe&#8217;a (1/1)",
+          "description": "Sourat Al-Waqe'a (Verses 1-96)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/056/01.mp3",
+          "publishedAt": "2006-08-18",
+          "duration": 408
+        },
+        {
+          "id": "holy-quran-daily-236",
+          "episodeNumber": 236,
+          "title": "Al-Hadeed (1/1)",
+          "description": "Sourat Al-Hadeed (Verses 1-29)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/057/01.mp3",
+          "publishedAt": "2006-08-19",
+          "duration": 496
+        },
+        {
+          "id": "holy-quran-daily-237",
+          "episodeNumber": 237,
+          "title": "Al-Mojadelah (1/1)",
+          "description": "Sourat Al-Mojadelah (Verses 1-22)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/058/01.mp3",
+          "publishedAt": "2006-08-20",
+          "duration": 439
+        },
+        {
+          "id": "holy-quran-daily-238",
+          "episodeNumber": 238,
+          "title": "Al-Hashir (1/1)",
+          "description": "Sourat Al-Hashir (Verses 1-24)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/059/01.mp3",
+          "publishedAt": "2006-08-21",
+          "duration": 466
+        },
+        {
+          "id": "holy-quran-daily-239",
+          "episodeNumber": 239,
+          "title": "Al-Momtahana (1/1)",
+          "description": "Sourat Al-Momtahana (Verses 1-12)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/060/01.mp3",
+          "publishedAt": "2006-08-22",
+          "duration": 367
+        },
+        {
+          "id": "holy-quran-daily-240",
+          "episodeNumber": 240,
+          "title": "Al-Saff (1/1)",
+          "description": "Sourat Al-Saff (Verses 1-14)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/061/01.mp3",
+          "publishedAt": "2006-08-23",
+          "duration": 232
+        },
+        {
+          "id": "holy-quran-daily-241",
+          "episodeNumber": 241,
+          "title": "Al-Jom&#8217;a (1/1)",
+          "description": "Sourat Al-Jom'a (Verses 1-11)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/062/01.mp3",
+          "publishedAt": "2006-08-24",
+          "duration": 181
+        },
+        {
+          "id": "holy-quran-daily-242",
+          "episodeNumber": 242,
+          "title": "Al-Monafeqoon (1/1)",
+          "description": "Sourat Al-Monafeqoon (Verses 1-11)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/063/01.mp3",
+          "publishedAt": "2006-08-25",
+          "duration": 163
+        },
+        {
+          "id": "holy-quran-daily-243",
+          "episodeNumber": 243,
+          "title": "Al-Taghabon (1/1)",
+          "description": "Sourat Al-Taghabon (Verses 1-18)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/064/01.mp3",
+          "publishedAt": "2006-08-26",
+          "duration": 204
+        },
+        {
+          "id": "holy-quran-daily-244",
+          "episodeNumber": 244,
+          "title": "Al-Talaq (1/1)",
+          "description": "Sourat Al-Talaq (Verses 1-12)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/065/01.mp3",
+          "publishedAt": "2006-08-27",
+          "duration": 285
+        },
+        {
+          "id": "holy-quran-daily-245",
+          "episodeNumber": 245,
+          "title": "Al-Tahreem (1/1)",
+          "description": "Sourat Al-Tahreem (Verses 1-12)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/066/01.mp3",
+          "publishedAt": "2006-08-28",
+          "duration": 210
+        },
+        {
+          "id": "holy-quran-daily-246",
+          "episodeNumber": 246,
+          "title": "Al-Molk (1/1)",
+          "description": "Sourat Al-Molk (Verses 1-30)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/067/01.mp3",
+          "publishedAt": "2006-08-29",
+          "duration": 333
+        },
+        {
+          "id": "holy-quran-daily-247",
+          "episodeNumber": 247,
+          "title": "Al-Qalam (1/1)",
+          "description": "Sourat Al-Qalam (Verses 1-52)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/068/01.mp3",
+          "publishedAt": "2006-08-30",
+          "duration": 308
+        },
+        {
+          "id": "holy-quran-daily-248",
+          "episodeNumber": 248,
+          "title": "Al-Haqqah (1/1)",
+          "description": "Sourat Al-Haqqah (Verses 1-52)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/069/01.mp3",
+          "publishedAt": "2006-08-31",
+          "duration": 325
+        },
+        {
+          "id": "holy-quran-daily-249",
+          "episodeNumber": 249,
+          "title": "Al-Ma&#8217;arej (1/1)",
+          "description": "Sourat Al-Ma'arej (Verses 1-44)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/070/01.mp3",
+          "publishedAt": "2006-09-01",
+          "duration": 198
+        },
+        {
+          "id": "holy-quran-daily-250",
+          "episodeNumber": 250,
+          "title": "Nooh (1/1)",
+          "description": "Sourat Nooh (Verses 1-28)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/071/01.mp3",
+          "publishedAt": "2006-09-02",
+          "duration": 198
+        },
+        {
+          "id": "holy-quran-daily-251",
+          "episodeNumber": 251,
+          "title": "Al-Jin (1/1)",
+          "description": "Sourat Al-Jin (Verses 1-28)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/072/01.mp3",
+          "publishedAt": "2006-09-03",
+          "duration": 227
+        },
+        {
+          "id": "holy-quran-daily-252",
+          "episodeNumber": 252,
+          "title": "Al-Mozzammel (1/1)",
+          "description": "Sourat Al-Mozzammel (Verses 1-20)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/073/01.mp3",
+          "publishedAt": "2006-09-04",
+          "duration": 169
+        },
+        {
+          "id": "holy-quran-daily-253",
+          "episodeNumber": 253,
+          "title": "Al-Modather (1/1)",
+          "description": "Sourat Al-Modather (Verses 1-56)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/074/01.mp3",
+          "publishedAt": "2006-09-05",
+          "duration": 221
+        },
+        {
+          "id": "holy-quran-daily-254",
+          "episodeNumber": 254,
+          "title": "Al-Qiyamah (1/1)",
+          "description": "Sourat Al-Qiyamah (Verses 1-40)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/075/01.mp3",
+          "publishedAt": "2006-09-06",
+          "duration": 137
+        },
+        {
+          "id": "holy-quran-daily-255",
+          "episodeNumber": 255,
+          "title": "Al-Insaan (1/1)",
+          "description": "Sourat Al-Insaan (Verses 1-31)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/076/01.mp3",
+          "publishedAt": "2006-09-07",
+          "duration": 219
+        },
+        {
+          "id": "holy-quran-daily-256",
+          "episodeNumber": 256,
+          "title": "Al-Morsalat (1/1)",
+          "description": "Sourat Al-Morsalat (Verses 1-50)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/077/01.mp3",
+          "publishedAt": "2006-09-08",
+          "duration": 224
+        },
+        {
+          "id": "holy-quran-daily-257",
+          "episodeNumber": 257,
+          "title": "Al-Naba&#8217; (1/1)",
+          "description": "Sourat Al-Naba' (Verses 1-40)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/078/01.mp3",
+          "publishedAt": "2006-09-09",
+          "duration": 213
+        },
+        {
+          "id": "holy-quran-daily-258",
+          "episodeNumber": 258,
+          "title": "Al-Naze&#8217;at (1/1)",
+          "description": "Sourat Al-Naze'at (Verses 1-46)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/079/01.mp3",
+          "publishedAt": "2006-09-10",
+          "duration": 186
+        },
+        {
+          "id": "holy-quran-daily-259",
+          "episodeNumber": 259,
+          "title": "Abasa (1/1)",
+          "description": "Sourat Abasa (Verses 1-42)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/080/01.mp3",
+          "publishedAt": "2006-09-11",
+          "duration": 154
+        },
+        {
+          "id": "holy-quran-daily-260",
+          "episodeNumber": 260,
+          "title": "Al-Takweer (1/1)",
+          "description": "Sourat Al-Takweer (Verses 1-29)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/081/01.mp3",
+          "publishedAt": "2006-09-12",
+          "duration": 106
+        },
+        {
+          "id": "holy-quran-daily-261",
+          "episodeNumber": 261,
+          "title": "Al-Infitar (1/1)",
+          "description": "Sourat Al-Infitar (Verses 1-20)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/082/01.mp3",
+          "publishedAt": "2006-09-13",
+          "duration": 79
+        },
+        {
+          "id": "holy-quran-daily-262",
+          "episodeNumber": 262,
+          "title": "Al-Motaffefeen (1/1)",
+          "description": "Sourat Al-Motaffefeen (Verses 1-36)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/083/01.mp3",
+          "publishedAt": "2006-09-14",
+          "duration": 176
+        },
+        {
+          "id": "holy-quran-daily-263",
+          "episodeNumber": 263,
+          "title": "Al-Inshiqaq (1/1)",
+          "description": "Sourat Al-Inshiqaq (Verses 1-25)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/084/01.mp3",
+          "publishedAt": "2006-09-15",
+          "duration": 110
+        },
+        {
+          "id": "holy-quran-daily-264",
+          "episodeNumber": 264,
+          "title": "Al-Borooj (1/1)",
+          "description": "Sourat Al-Borooj (Verses 1-23)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/085/01.mp3",
+          "publishedAt": "2006-09-16",
+          "duration": 114
+        },
+        {
+          "id": "holy-quran-daily-265",
+          "episodeNumber": 265,
+          "title": "Al-Tareq (1/1)",
+          "description": "Sourat Al-Tareq (Verses 1-17)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/086/01.mp3",
+          "publishedAt": "2006-09-17",
+          "duration": 61
+        },
+        {
+          "id": "holy-quran-daily-266",
+          "episodeNumber": 266,
+          "title": "Al-A&#8217;la (1/1)",
+          "description": "Sourat Al-A'la (Verses 1-19)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/087/01.mp3",
+          "publishedAt": "2006-09-18",
+          "duration": 65
+        },
+        {
+          "id": "holy-quran-daily-267",
+          "episodeNumber": 267,
+          "title": "Al-Ghashiya (1/1)",
+          "description": "Sourat Al-Ghashiya (Verses 1-26)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/088/01.mp3",
+          "publishedAt": "2006-09-19",
+          "duration": 78
+        },
+        {
+          "id": "holy-quran-daily-268",
+          "episodeNumber": 268,
+          "title": "Al-Fajr (1/1)",
+          "description": "Sourat Al-Fajr (Verses 1-30)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/089/01.mp3",
+          "publishedAt": "2006-09-20",
+          "duration": 128
+        },
+        {
+          "id": "holy-quran-daily-269",
+          "episodeNumber": 269,
+          "title": "Al-Balad (1/1)",
+          "description": "Sourat Al-Balad (Verses 1-20)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/090/01.mp3",
+          "publishedAt": "2006-09-21",
+          "duration": 66
+        },
+        {
+          "id": "holy-quran-daily-270",
+          "episodeNumber": 270,
+          "title": "Al-Shams (1/1)",
+          "description": "Sourat Al-Shams (Verses 1-15)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/091/01.mp3",
+          "publishedAt": "2006-09-22",
+          "duration": 56
+        },
+        {
+          "id": "holy-quran-daily-271",
+          "episodeNumber": 271,
+          "title": "Al-Layl (1/1)",
+          "description": "Sourat Al-Layl (Verses 1-21)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/092/01.mp3",
+          "publishedAt": "2006-09-23",
+          "duration": 63
+        },
+        {
+          "id": "holy-quran-daily-272",
+          "episodeNumber": 272,
+          "title": "Al-Dhoha (1/1)",
+          "description": "Sourat Al-Dhoha (Verses 1-11)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/093/01.mp3",
+          "publishedAt": "2006-09-24",
+          "duration": 39
+        },
+        {
+          "id": "holy-quran-daily-273",
+          "episodeNumber": 273,
+          "title": "Al-Sharh (1/1)",
+          "description": "Sourat Al-Sharh (Verses 1-8)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/094/01.mp3",
+          "publishedAt": "2006-09-25",
+          "duration": 23
+        },
+        {
+          "id": "holy-quran-daily-274",
+          "episodeNumber": 274,
+          "title": "Al-Teen (1/1)",
+          "description": "Sourat Al-Teen (Verses 1-8)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/095/01.mp3",
+          "publishedAt": "2006-09-26",
+          "duration": 33
+        },
+        {
+          "id": "holy-quran-daily-275",
+          "episodeNumber": 275,
+          "title": "Al-&#8217;Alaq (1/1)",
+          "description": "Sourat Al-'Alaq (Verses 1-19)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/096/01.mp3",
+          "publishedAt": "2006-09-27",
+          "duration": 59
+        },
+        {
+          "id": "holy-quran-daily-276",
+          "episodeNumber": 276,
+          "title": "Al-Qadar (1/1)",
+          "description": "Sourat Al-Qadar (Verses 1-5)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/097/01.mp3",
+          "publishedAt": "2006-09-28",
+          "duration": 24
+        },
+        {
+          "id": "holy-quran-daily-277",
+          "episodeNumber": 277,
+          "title": "Al-Baiyenah (1/1)",
+          "description": "Sourat Al-Baiyenah (Verses 1-8)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/098/01.mp3",
+          "publishedAt": "2006-09-29",
+          "duration": 76
+        },
+        {
+          "id": "holy-quran-daily-278",
+          "episodeNumber": 278,
+          "title": "Al-Zalzalah (1/1)",
+          "description": "Sourat Al-Zalzalah (Verses 1-8)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/099/01.mp3",
+          "publishedAt": "2006-09-30",
+          "duration": 51
+        },
+        {
+          "id": "holy-quran-daily-279",
+          "episodeNumber": 279,
+          "title": "Al-Adaiat (1/1)",
+          "description": "Sourat Al-Adaiat (Verses 1-11)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/100/01.mp3",
+          "publishedAt": "2006-10-01",
+          "duration": 58
+        },
+        {
+          "id": "holy-quran-daily-280",
+          "episodeNumber": 280,
+          "title": "Al-Qare&#8217;a (1/1)",
+          "description": "Sourat Al-Qare'a (Verses 1-11)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/101/01.mp3",
+          "publishedAt": "2006-10-02",
+          "duration": 52
+        },
+        {
+          "id": "holy-quran-daily-281",
+          "episodeNumber": 281,
+          "title": "Al-Takathor (1/1)",
+          "description": "Sourat Al-Takathor (Verses 1-8)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/102/01.mp3",
+          "publishedAt": "2006-10-03",
+          "duration": 42
+        },
+        {
+          "id": "holy-quran-daily-282",
+          "episodeNumber": 282,
+          "title": "Al-Asr (1/1)",
+          "description": "Sourat Al-Asr (Verses 1-3)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/103/01.mp3",
+          "publishedAt": "2006-10-04",
+          "duration": 25
+        },
+        {
+          "id": "holy-quran-daily-283",
+          "episodeNumber": 283,
+          "title": "Al-Homaza (1/1)",
+          "description": "Sourat Al-Homaza (Verses 1-9)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/104/01.mp3",
+          "publishedAt": "2006-10-05",
+          "duration": 41
+        },
+        {
+          "id": "holy-quran-daily-284",
+          "episodeNumber": 284,
+          "title": "Al-Feel (1/1)",
+          "description": "Sourat Al-Feel (Verses 1-5)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/105/01.mp3",
+          "publishedAt": "2006-10-06",
+          "duration": 35
+        },
+        {
+          "id": "holy-quran-daily-285",
+          "episodeNumber": 285,
+          "title": "Quraiysh (1/1)",
+          "description": "Sourat Quraiysh (Verses 1-4)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/106/01.mp3",
+          "publishedAt": "2006-10-07",
+          "duration": 30
+        },
+        {
+          "id": "holy-quran-daily-286",
+          "episodeNumber": 286,
+          "title": "Al-Ma&#8217;oon (1/1)",
+          "description": "Sourat Al-Ma'oon (Verses 1-7)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/107/01.mp3",
+          "publishedAt": "2006-10-08",
+          "duration": 34
+        },
+        {
+          "id": "holy-quran-daily-287",
+          "episodeNumber": 287,
+          "title": "Al-Kawthar (1/1)",
+          "description": "Sourat Al-Kawthar (Verses 1-3)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/108/01.mp3",
+          "publishedAt": "2006-10-09",
+          "duration": 17
+        },
+        {
+          "id": "holy-quran-daily-288",
+          "episodeNumber": 288,
+          "title": "Al-Kaferoon (1/1)",
+          "description": "Sourat Al-Kaferoon (Verses 1-6)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/109/01.mp3",
+          "publishedAt": "2006-10-10",
+          "duration": 30
+        },
+        {
+          "id": "holy-quran-daily-289",
+          "episodeNumber": 289,
+          "title": "Al-Nasr (1/1)",
+          "description": "Sourat Al-Nasr (Verses 1-3)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/110/01.mp3",
+          "publishedAt": "2006-10-11",
+          "duration": 28
+        },
+        {
+          "id": "holy-quran-daily-290",
+          "episodeNumber": 290,
+          "title": "Al-Masad (1/1)",
+          "description": "Sourat Al-Masad (Verses 1-5)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/111/01.mp3",
+          "publishedAt": "2006-10-12",
+          "duration": 27
+        },
+        {
+          "id": "holy-quran-daily-291",
+          "episodeNumber": 291,
+          "title": "Al-Ikhalass (1/1)",
+          "description": "Sourat Al-Ikhalass (Verses 1-4)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/112/01.mp3",
+          "publishedAt": "2006-10-13",
+          "duration": 17
+        },
+        {
+          "id": "holy-quran-daily-292",
+          "episodeNumber": 292,
+          "title": "Al-Falaq (1/1)",
+          "description": "Sourat Al-Falaq (Verses 1-5)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/113/01.mp3",
+          "publishedAt": "2006-10-14",
+          "duration": 25
+        },
+        {
+          "id": "holy-quran-daily-293",
+          "episodeNumber": 293,
+          "title": "Al-Nass (1/1)",
+          "description": "Sourat Al-Nass (Verses 1-6)",
+          "audioUrl": "https://quran-cast.s3.amazonaws.com/114/01.mp3",
+          "publishedAt": "2006-10-15",
+          "duration": 31
         }
       ]
     }
